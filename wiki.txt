@@ -1,0 +1,991 @@
+
+This is a featured article. Click here for more information. Page semi-protected
+Mars
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+This article is about the planet. For the deity, see Mars (mythology). For other uses, see Mars (disambiguation).
+Mars Astronomical symbol of Mars
+Mars appears as a red-orange globe with darker blotches and white icecaps visible on both of its poles.
+Pictured in natural color in 2007[a]
+Designations
+Pronunciation	/ˈmɑːrz/ (About this soundlisten)
+Adjectives	Martian /ˈmɑːrʃən/
+Orbital characteristics[4]
+Epoch J2000
+Aphelion	249200000 km
+(154800000 mi; 1.666 AU)
+Perihelion	206700000 km
+(128400000 mi; 1.382 AU)
+Semi-major axis	227939200 km
+(141634900 mi; 1.523679 AU)
+Eccentricity	0.0934
+Orbital period	686.971 d
+(1.88082 yr; 668.5991 sols)
+Synodic period	779.96 d
+(2.1354 yr)
+Average orbital speed	24.007 km/s
+(86430 km/h; 53700 mph)
+Mean anomaly	19.412°[1]
+Inclination
+1.850° to ecliptic;
+5.65° the Sun's equator;
+1.67° to invariable plane[2]
+Longitude of ascending node	49.558°
+Time of perihelion	2020-Aug-03[3]
+Argument of perihelion	286.502°
+Satellites	2
+Physical characteristics
+Mean radius	3389.5 ± 0.2 km[b] [5]
+(2106.1 ± 0.1 mi)
+Equatorial radius	3396.2 ± 0.1 km[b] [5]
+(2110.3 ± 0.1 mi; 0.533 Earths)
+Polar radius	3376.2 ± 0.1 km[b] [5]
+(2097.9 ± 0.1 mi; 0.531 Earths)
+Flattening	0.00589±0.00015
+Surface area	144798500 km2[6]
+(55907000 sq mi; 0.284 Earths)
+Volume	1.6318×1011 km3[7]
+(0.151 Earths)
+Mass	6.4171×1023 kg[8]
+(0.107 Earths)
+Mean density	3.9335 g/cm3[7]
+(0.1421 lb/cu in)
+Surface gravity	3.72076 m/s2[9]
+(12.2072 ft/s2; 0.3794 g)
+Moment of inertia factor	0.3644±0.0005[8]
+Escape velocity	5.027 km/s
+(18100 km/h; 11250 mph)
+Sidereal rotation period	1.025957 d
+24h 37m 22.7s[7]
+Equatorial rotation velocity	241.17 m/s
+(868.22 km/h; 539.49 mph)
+Axial tilt	25.19° to its orbital plane[10]
+North pole right ascension	317.68143°
+21h 10m 44s
+North pole declination	52.88650°
+Albedo
+0.170 geometric[11]
+0.25 Bond[10]
+Surface temp.	min	mean	max
+Kelvin	130 K	210 K[10]	308 K
+Celsius	−143 °C[13]	−63 °C	35 °C[14]
+Fahrenheit	−226 °F[13]	−82 °F	95 °F[14]
+Apparent magnitude	−2.94 to +1.86[12]
+Angular diameter	3.5–25.1″[10]
+Atmosphere[10][15]
+Surface pressure	0.636 (0.4–0.87) kPa
+0.00628 atm
+Composition by volume
+95.97% carbon dioxide
+1.93% argon
+1.89% nitrogen
+0.146% oxygen
+0.0557% carbon monoxide
+0.0210% water vapor
+0.0100% nitrogen oxide
+0.00025% neon
+0.00008% hydrogen deuterium oxide
+0.00003% krypton
+0.00001% xenon
+Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often referred to as the "Red Planet".[16][17] The latter refers to the effect of the iron oxide prevalent on Mars's surface, which gives it a reddish appearance distinctive among the astronomical bodies visible to the naked eye.[18] Mars is a terrestrial planet with a thin atmosphere, with surface features reminiscent of the impact craters of the Moon and the valleys, deserts and polar ice caps of Earth.
+
+The days and seasons are comparable to those of Earth, because the rotational period as well as the tilt of the rotational axis relative to the ecliptic plane are similar. Mars is the site of Olympus Mons, the largest volcano and highest known mountain on any planet in the Solar System, and of Valles Marineris, one of the largest canyons in the Solar System. The smooth Borealis basin in the northern hemisphere covers 40% of the planet and may be a giant impact feature.[19][20] Mars has two moons, Phobos and Deimos, which are small and irregularly shaped. These may be captured asteroids, similar to 5261 Eureka, a Mars trojan.[21][22]
+
+Mars has been explored by several uncrewed spacecraft. Mariner 4 was the first spacecraft to visit Mars; launched by NASA on 28 November 1964, it made its closest approach to the planet on 15 July 1965. Mariner 4 detected the weak Martian radiation belt, measured at about 0.1% that of Earth, and captured the first images of another planet from deep space.[23] The Soviet Mars 3 mission included a lander, which achieved a soft landing in December 1971; however, contact was lost seconds after touchdown.[24] On 20 July 1976, Viking 1 performed the first successful landing on the Martian surface.[25] On 4 July 1997, the Mars Pathfinder spacecraft landed on Mars and on 5 July released its rover, Sojourner, the first robotic rover to operate on Mars.[26] The Mars Express orbiter, the first European Space Agency (ESA) spacecraft to visit Mars, arrived in orbit on 25 December 2003.[27] In January 2004, the Mars Exploration Rovers, named Spirit and Opportunity, both landed on Mars. Spirit operated until 22 March 2010 and Opportunity lasted until 10 June 2018.[28] On 24 September 2014, the Indian Space Research Organisation (ISRO) became the fourth space agency to visit Mars when its maiden interplanetary mission, the Mars Orbiter Mission spacecraft, arrived in orbit.[29]
+
+There are investigations assessing the past habitability of Mars, as well as the possibility of extant life. Astrobiology missions are planned, including the Perseverance and Rosalind Franklin rovers.[30][31][32][33] Liquid water on the surface of Mars cannot exist due to low atmospheric pressure, which is less than 1% of the atmospheric pressure on Earth, except at the lowest elevations for short periods.[34][35][36] The two polar ice caps appear to be made largely of water.[37][38] The volume of water ice in the south polar ice cap, if melted, would be sufficient to cover the planetary surface to a depth of 11 metres (36 ft).[39] In November 2016, NASA reported finding a large amount of underground ice in the Utopia Planitia region. The volume of water detected has been estimated to be equivalent to the volume of water in Lake Superior.[40][41][42]
+
+Mars can easily be seen from Earth with the naked eye, as can its reddish coloring. Its apparent magnitude reaches −2.94, which is surpassed only by Venus, the Moon and the Sun.[12] Optical ground-based telescopes are typically limited to resolving features about 300 kilometres (190 mi) across when Earth and Mars are closest because of Earth's atmosphere.[43]
+
+
+Contents
+1	Names
+2	Physical characteristics
+2.1	Internal structure
+2.2	Surface geology
+2.3	Soil
+2.4	Hydrology
+2.4.1	Polar caps
+2.5	Geography and naming of surface features
+2.5.1	Map of quadrangles
+2.5.2	Impact topography
+2.5.3	Volcanoes
+2.5.4	Tectonic sites
+2.5.5	Holes
+2.6	Atmosphere
+2.6.1	Methane
+2.6.2	Aurora
+2.7	Climate
+3	Orbit and rotation
+4	Habitability and search for life
+5	Moons
+6	Exploration
+6.1	Future
+7	Astronomy on Mars
+8	Viewing
+8.1	Closest approaches
+8.1.1	Relative
+8.1.2	Absolute, around the present time
+9	Historical observations
+9.1	Ancient and medieval observations
+9.2	Martian "canals"
+9.3	Spacecraft visitation
+10	In culture
+10.1	Intelligent "Martians"
+11	Interactive Mars map
+12	See also
+13	Notes
+14	References
+15	External links
+15.1	Images
+15.2	Videos
+15.3	Cartographic resources
+Names
+In English, the planet is named for the Roman god of war,[44] an association made because of its red color, which suggests blood.[45] The adjectival form of Latin Mars is Martius,[46] which provides the English words Martian, used as an adjective or for a putative inhabitant of Mars, and Martial, used as an adjective corresponding to Terrestrial for Earth.[47] In Greek, the planet is known as Ἄρης Arēs, with the inflectional stem Ἄρε- Are-.[48] From this come technical terms such as areology, as well as the adjective Arean[49] and the star name Antares. 'Mars' is also the basis of the name of the month of March (from Latin Martius mēnsis 'month of Mars'), as well as (through loan-translation) of Tuesday (Latin dies Martis 'day of Mars'), where the old Anglo-Saxon god Tíw was identified with Roman Mars.
+
+The archaic Latin form Māvors (/ˈmeɪvɔːrz/) is very occasionally seen in English, though the adjectives Mavortial and Mavortian mean 'martial' in the military rather than planetary sense.[50]
+
+Due to the global influence of European languages, a word like Mars or Marte for the planet is common around the world, though it may be used alongside older, native words. A number of other languages have provided words with international usage. For example, Arabic مريخ mirrīkh – which has connotations of fire – is used as the (or a) name for the planet in Persian, Urdu, Malay and Swahili,[51] among others, while Chinese 火星 [Mandarin Huǒxīng] 'fire star' (for in Chinese the five classical planets are identified with the five elements) is used in Korean, Japanese and Vietnamese.[52]
+
+India uses the Sanskrit term Mangal derived from the Hindu goddess Mangala.
+
+A long-standing nickname for Mars is the "Red Planet". That is also the planet's name in Hebrew, מאדים ma'adim, which is derived from אדום adom, meaning 'red'.[53]
+
+Physical characteristics
+Mars is approximately half the diameter of Earth, with a surface area only slightly less than the total area of Earth's dry land.[10] Mars is less dense than Earth, having about 15% of Earth's volume and 11% of Earth's mass, resulting in about 38% of Earth's surface gravity. The red-orange appearance of the Martian surface is caused by iron(III) oxide, or rust.[54] It can look like butterscotch;[55] other common surface colors include golden, brown, tan, and greenish, depending on the minerals present.[55]
+
+
+Comparison: Earth and Mars
+File:Mars.ogv
+Animation (00:40) showing major features of Mars
+File:GMM-3 Mars Gravity.webm
+Video (01:28) showing how three NASA orbiters mapped the gravity field of Mars
+Internal structure
+Like Earth, Mars has differentiated into a dense metallic core overlaid by less dense materials.[56] Current models of its interior imply a core with a radius of about 1,794 ± 65 kilometres (1,115 ± 40 mi), consisting primarily of iron and nickel with about 16–17% sulfur.[57] This iron(II) sulfide core is thought to be twice as rich in lighter elements as Earth's.[58] The core is surrounded by a silicate mantle that formed many of the tectonic and volcanic features on the planet, but it appears to be dormant. Besides silicon and oxygen, the most abundant elements in the Martian crust are iron, magnesium, aluminium, calcium, and potassium. The average thickness of the planet's crust is about 50 kilometres (31 mi), with a maximum thickness of 125 kilometres (78 mi).[58] Earth's crust averages 40 kilometres (25 mi).
+
+Mars is seismically active, with InSight recording over 450 marsquakes and related events in 2019.[59][60]
+
+Surface geology
+Main article: Geology of Mars
+
+The topographic map of Mars
+
+The albedo map of Mars
+Mars is a terrestrial planet that consists of minerals containing silicon and oxygen, metals, and other elements that typically make up rock. The surface of Mars is primarily composed of tholeiitic basalt,[61] although parts are more silica-rich than typical basalt and may be similar to andesitic rocks on Earth or silica glass. Regions of low albedo suggest concentrations of plagioclase feldspar, with northern low albedo regions displaying higher than normal concentrations of sheet silicates and high-silicon glass. Parts of the southern highlands include detectable amounts of high-calcium pyroxenes. Localized concentrations of hematite and olivine have been found.[62] Much of the surface is deeply covered by finely grained iron(III) oxide dust.[63][64]
+
+
+Geologic map of Mars (USGS, 2014)[65]
+Although Mars has no evidence of a structured global magnetic field,[66] observations show that parts of the planet's crust have been magnetized, suggesting that alternating polarity reversals of its dipole field have occurred in the past. This paleomagnetism of magnetically susceptible minerals is similar to the alternating bands found on Earth's ocean floors. One theory, published in 1999 and re-examined in October 2005 (with the help of the Mars Global Surveyor), is that these bands suggest plate tectonic activity on Mars four billion years ago, before the planetary dynamo ceased to function and the planet's magnetic field faded.[67]
+
+It is thought that, during the Solar System's formation, Mars was created as the result of a stochastic process of run-away accretion of material from the protoplanetary disk that orbited the Sun. Mars has many distinctive chemical features caused by its position in the Solar System. Elements with comparatively low boiling points, such as chlorine, phosphorus, and sulphur, are much more common on Mars than Earth; these elements were probably pushed outward by the young Sun's energetic solar wind.[68]
+
+After the formation of the planets, all were subjected to the so-called "Late Heavy Bombardment". About 60% of the surface of Mars shows a record of impacts from that era,[69][70][71] whereas much of the remaining surface is probably underlain by immense impact basins caused by those events. There is evidence of an enormous impact basin in the northern hemisphere of Mars, spanning 10,600 by 8,500 kilometres (6,600 by 5,300 mi), or roughly four times the size of the Moon's South Pole – Aitken basin, the largest impact basin yet discovered.[19][20] This theory suggests that Mars was struck by a Pluto-sized body about four billion years ago. The event, thought to be the cause of the Martian hemispheric dichotomy, created the smooth Borealis basin that covers 40% of the planet.[72][73]
+
+
+Artist's impression of how Mars may have looked four billion years ago[74]
+The geological history of Mars can be split into many periods, but the following are the three primary periods:[75][76]
+
+Noachian period (named after Noachis Terra): Formation of the oldest extant surfaces of Mars, 4.5 to 3.5 billion years ago. Noachian age surfaces are scarred by many large impact craters. The Tharsis bulge, a volcanic upland, is thought to have formed during this period, with extensive flooding by liquid water late in the period.
+Hesperian period (named after Hesperia Planum): 3.5 to between 3.3 and 2.9 billion years ago. The Hesperian period is marked by the formation of extensive lava plains.
+Amazonian period (named after Amazonis Planitia): between 3.3 and 2.9 billion years ago to the present. Amazonian regions have few meteorite impact craters, but are otherwise quite varied. Olympus Mons formed during this period, with lava flows elsewhere on Mars.
+Geological activity is still taking place on Mars. The Athabasca Valles is home to sheet-like lava flows created about 200 Mya. Water flows in the grabens called the Cerberus Fossae occurred less than 20 Mya, indicating equally recent volcanic intrusions.[77] On 19 February 2008, images from the Mars Reconnaissance Orbiter showed evidence of an avalanche from a 700-metre-high (2,300 ft) cliff.[78]
+
+Soil
+Main article: Martian soil
+
+Exposure of silica-rich dust uncovered by the Spirit rover
+The Phoenix lander returned data showing Martian soil to be slightly alkaline and containing elements such as magnesium, sodium, potassium and chlorine. These nutrients are found in soils on Earth, and they are necessary for growth of plants.[79] Experiments performed by the lander showed that the Martian soil has a basic pH of 7.7, and contains 0.6% of the salt perchlorate.[80][81][82][83] This is a very high concentration and makes the Martian soil toxic (see also Martian soil toxicity).[84][85]
+
+Streaks are common across Mars and new ones appear frequently on steep slopes of craters, troughs, and valleys. The streaks are dark at first and get lighter with age. The streaks can start in a tiny area, then spread out for hundreds of metres. They have been seen to follow the edges of boulders and other obstacles in their path. The commonly accepted theories include that they are dark underlying layers of soil revealed after avalanches of bright dust or dust devils.[86] Several other explanations have been put forward, including those that involve water or even the growth of organisms.[87][88]
+
+Hydrology
+Main article: Water on Mars
+Liquid water cannot exist on the surface of Mars due to low atmospheric pressure, which is less than 1% that of Earth's,[34] except at the lowest elevations for short periods.[35][36] The two polar ice caps appear to be made largely of water.[37][38] The volume of water ice in the south polar ice cap, if melted, would be sufficient to cover the entire planetary surface to a depth of 11 metres (36 ft).[39] A permafrost mantle stretches from the pole to latitudes of about 60°.[37] Large quantities of ice are thought to be trapped within the thick cryosphere of Mars. Radar data from Mars Express and the Mars Reconnaissance Orbiter (MRO) show large quantities of ice at both poles (July 2005)[89][90] and at middle latitudes (November 2008).[91] The Phoenix lander directly sampled water ice in shallow Martian soil on 31 July 2008.[92]
+
+
+Photomicrograph by Opportunity showing a gray hematite concretion, nicknamed "blueberries", indicative of the past existence of liquid water.
+Landforms visible on Mars strongly suggest that liquid water has existed on the planet's surface. Huge linear swathes of scoured ground, known as outflow channels, cut across the surface in about 25 places. These are thought to be a record of erosion caused by the catastrophic release of water from subsurface aquifers, though some of these structures have been hypothesized to result from the action of glaciers or lava.[93][94] One of the larger examples, Ma'adim Vallis is 700 kilometres (430 mi) long, much greater than the Grand Canyon, with a width of 20 kilometres (12 mi) and a depth of 2 kilometres (1.2 mi) in places. It is thought to have been carved by flowing water early in Mars's history.[95] The youngest of these channels are thought to have formed as recently as only a few million years ago.[96] Elsewhere, particularly on the oldest areas of the Martian surface, finer-scale, dendritic networks of valleys are spread across significant proportions of the landscape. Features of these valleys and their distribution strongly imply that they were carved by runoff resulting from precipitation in early Mars history. Subsurface water flow and groundwater sapping may play important subsidiary roles in some networks, but precipitation was probably the root cause of the incision in almost all cases.[97]
+
+Along crater and canyon walls, there are thousands of features that appear similar to terrestrial gullies. The gullies tend to be in the highlands of the southern hemisphere and to face the Equator; all are poleward of 30° latitude. A number of authors have suggested that their formation process involves liquid water, probably from melting ice,[98][99] although others have argued for formation mechanisms involving carbon dioxide frost or the movement of dry dust.[100][101] No partially degraded gullies have formed by weathering and no superimposed impact craters have been observed, indicating that these are young features, possibly still active.[99] Other geological features, such as deltas and alluvial fans preserved in craters, are further evidence for warmer, wetter conditions at an interval or intervals in earlier Mars history.[102] Such conditions necessarily require the widespread presence of crater lakes across a large proportion of the surface, for which there is independent mineralogical, sedimentological and geomorphological evidence.[103]
+
+
+A cross-section of underground water ice is exposed at the steep slope that appears bright blue in this enhanced-color view from the MRO.[104] The scene is about 500 meters wide. The scarp drops about 128 meters from the level ground. The ice sheets extend from just below the surface to a depth of 100 meters or more.[105]
+Further evidence that liquid water once existed on the surface of Mars comes from the detection of specific minerals such as hematite and goethite, both of which sometimes form in the presence of water.[106] In 2004, Opportunity detected the mineral jarosite. This forms only in the presence of acidic water, which demonstrates that water once existed on Mars.[107] More recent evidence for liquid water comes from the finding of the mineral gypsum on the surface by NASA's Mars rover Opportunity in December 2011.[108][109] It is estimated that the amount of water in the upper mantle of Mars, represented by hydroxyl ions contained within the minerals of Mars's geology, is equal to or greater than that of Earth at 50–300 parts per million of water, which is enough to cover the entire planet to a depth of 200–1,000 metres (660–3,280 ft).[110]
+
+In 2005, radar data revealed the presence of large quantities of water ice at the poles[89] and at mid-latitudes.[91][111] The Mars rover Spirit sampled chemical compounds containing water molecules in March 2007. The Phoenix lander directly sampled water ice in shallow Martian soil on 31 July 2008.[92]
+
+On 18 March 2013, NASA reported evidence from instruments on the Curiosity rover of mineral hydration, likely hydrated calcium sulfate, in several rock samples including the broken fragments of "Tintina" rock and "Sutton Inlier" rock as well as in veins and nodules in other rocks like "Knorr" rock and "Wernicke" rock.[112][113][114] Analysis using the rover's DAN instrument provided evidence of subsurface water, amounting to as much as 4% water content, down to a depth of 60 centimetres (24 in), during the rover's traverse from the Bradbury Landing site to the Yellowknife Bay area in the Glenelg terrain.[112] In September 2015, NASA announced that they had found conclusive evidence of hydrated brine flows on recurring slope lineae, based on spectrometer readings of the darkened areas of slopes.[115][116][117] These observations provided confirmation of earlier hypotheses based on timing of formation and their rate of growth, that these dark streaks resulted from water flowing in the very shallow subsurface.[118] The streaks contain hydrated salts, perchlorates, which have water molecules in their crystal structure.[119] The streaks flow downhill in Martian summer, when the temperature is above −23° Celsius, and freeze at lower temperatures.[120]
+
+
+Perspective view of Korolev crater shows 1.9 kilometres (1.2 mi) deep water ice. Image taken by ESA's Mars Express.
+Researchers suspect that much of the low northern plains of the planet were covered with an ocean hundreds of meters deep, though this remains controversial.[121] In March 2015, scientists stated that such an ocean might have been the size of Earth's Arctic Ocean. This finding was derived from the ratio of water to deuterium in the modern Martian atmosphere compared to that ratio on Earth. The amount of Martian deuterium is eight times the amount that exists on Earth, suggesting that ancient Mars had significantly higher levels of water. Results from the Curiosity rover had previously found a high ratio of deuterium in Gale Crater, though not significantly high enough to suggest the former presence of an ocean. Other scientists caution that these results have not been confirmed, and point out that Martian climate models have not yet shown that the planet was warm enough in the past to support bodies of liquid water.[122]
+
+Near the northern polar cap is the 81.4 kilometres (50.6 mi) wide Korolev Crater, where the Mars Express orbiter found it to be filled with approximately 2,200 cubic kilometres (530 cu mi) of water ice.[123] The crater floor lies about 2 kilometres (1.2 mi) below the rim, and is covered by a 1.8 kilometres (1.1 mi) deep central mound of permanent water ice, up to 60 kilometres (37 mi) in diameter.[123][124]
+
+In February 2020, it was found that dark streaks called recurring slope lineae (RSL), which appear seasonably, are caused by briny water flowing for a few days annually.[125][126]
+
+Polar caps
+Main article: Martian polar ice caps
+
+North polar early summer water ice cap (1999); a seasonal layer of carbon dioxide ice forms in winter and disappears in summer.
+
+South polar midsummer ice cap (2000); the south cap has a permanent carbon dioxide ice cap mixed with water ice.[127]
+Mars has two permanent polar ice caps. During a pole's winter, it lies in continuous darkness, chilling the surface and causing the deposition of 25–30% of the atmosphere into slabs of CO2 ice (dry ice).[128] When the poles are again exposed to sunlight, the frozen CO2 sublimes. These seasonal actions transport large amounts of dust and water vapor, giving rise to Earth-like frost and large cirrus clouds. Clouds of water-ice were photographed by the Opportunity rover in 2004.[129]
+
+The caps at both poles consist primarily (70%) of water ice. Frozen carbon dioxide accumulates as a comparatively thin layer about one metre thick on the north cap in the northern winter only, whereas the south cap has a permanent dry ice cover about eight metres thick. This permanent dry ice cover at the south pole is peppered by flat floored, shallow, roughly circular pits, which repeat imaging shows are expanding by meters per year; this suggests that the permanent CO2 cover over the south pole water ice is degrading over time.[130] The northern polar cap has a diameter of about 1,000 kilometres (620 mi) during the northern Mars summer,[131] and contains about 1.6 million cubic kilometres (5.7×1016 cu ft) of ice, which, if spread evenly on the cap, would be 2 kilometres (1.2 mi) thick.[132] (This compares to a volume of 2.85 million cubic kilometres (1.01×1017 cu ft) for the Greenland ice sheet.) The southern polar cap has a diameter of 350 kilometres (220 mi) and a thickness of 3 kilometres (1.9 mi).[133] The total volume of ice in the south polar cap plus the adjacent layered deposits has been estimated at 1.6 million cubic km.[134] Both polar caps show spiral troughs, which recent analysis of SHARAD ice penetrating radar has shown are a result of katabatic winds that spiral due to the Coriolis Effect.[135][136]
+
+The seasonal frosting of areas near the southern ice cap results in the formation of transparent 1-metre-thick slabs of dry ice above the ground. With the arrival of spring, sunlight warms the subsurface and pressure from subliming CO2 builds up under a slab, elevating and ultimately rupturing it. This leads to geyser-like eruptions of CO2 gas mixed with dark basaltic sand or dust. This process is rapid, observed happening in the space of a few days, weeks or months, a rate of change rather unusual in geology – especially for Mars. The gas rushing underneath a slab to the site of a geyser carves a spiderweb-like pattern of radial channels under the ice, the process being the inverted equivalent of an erosion network formed by water draining through a single plughole.[137][138][139][140]
+
+Geography and naming of surface features
+
+
+A MOLA-based topographic map showing highlands (red and orange) dominating the southern hemisphere of Mars, lowlands (blue) the northern. Volcanic plateaus delimit regions of the northern plains, whereas the highlands are punctuated by several large impact basins.
+
+These new impact craters on Mars occurred sometime between 2008 and 2014, as detected from orbit
+Main article: Geography of Mars
+Further information: Areoid
+See also: Category:Surface features of Mars
+Although better remembered for mapping the Moon, Johann Heinrich Mädler and Wilhelm Beer were the first areographers. They began by establishing that most of Mars's surface features were permanent and by more precisely determining the planet's rotation period. In 1840, Mädler combined ten years of observations and drew the first map of Mars. Rather than giving names to the various markings, Beer and Mädler simply designated them with letters; Meridian Bay (Sinus Meridiani) was thus feature "a".[141]
+
+Today, features on Mars are named from a variety of sources. Albedo features are named for classical mythology. Craters larger than 60 km are named for deceased scientists and writers and others who have contributed to the study of Mars. Craters smaller than 60 km are named for towns and villages of the world with populations of less than 100,000. Large valleys are named for the word "Mars" or "star" in various languages; small valleys are named for rivers.[142]
+
+Large albedo features retain many of the older names, but are often updated to reflect new knowledge of the nature of the features. For example, Nix Olympica (the snows of Olympus) has become Olympus Mons (Mount Olympus).[143] The surface of Mars as seen from Earth is divided into two kinds of areas, with differing albedo. The paler plains covered with dust and sand rich in reddish iron oxides were once thought of as Martian "continents" and given names like Arabia Terra (land of Arabia) or Amazonis Planitia (Amazonian plain). The dark features were thought to be seas, hence their names Mare Erythraeum, Mare Sirenum and Aurorae Sinus. The largest dark feature seen from Earth is Syrtis Major Planum.[144] The permanent northern polar ice cap is named Planum Boreum, whereas the southern cap is called Planum Australe.
+
+Mars's equator is defined by its rotation, but the location of its Prime Meridian was specified, as was Earth's (at Greenwich), by choice of an arbitrary point; Mädler and Beer selected a line for their first maps of Mars in 1830. After the spacecraft Mariner 9 provided extensive imagery of Mars in 1972, a small crater (later called Airy-0), located in the Sinus Meridiani ("Middle Bay" or "Meridian Bay"), was chosen by Merton Davies of the Rand Corporation[145] for the definition of 0.0° longitude to coincide with the original selection.[146]
+
+Because Mars has no oceans and hence no "sea level", a zero-elevation surface had to be selected as a reference level; this is called the areoid[147] of Mars, analogous to the terrestrial geoid.[148] Zero altitude was defined by the height at which there is 610.5 Pa (6.105 mbar) of atmospheric pressure.[149] This pressure corresponds to the triple point of water, and it is about 0.6% of the sea level surface pressure on Earth (0.006 atm).[150]
+
+Map of quadrangles
+Main article: List of quadrangles on Mars
+For mapping purposes, the United States Geological Survey divides the surface of Mars into thirty cartographic quadrangles, each named for a classical albedo feature it contains. The quadrangles can be seen and explored via the interactive image map below.
+
+Mars Quad Map
+0°N 180°W0°N 0°W90°N 0°WMC-01Mare BoreumMC-02DiacriaMC-03ArcadiaMC-04Mare AcidaliumMC-05Ismenius LacusMC-06CasiusMC-07CebreniaMC-08AmazonisMC-09TharsisMC-10Lunae PalusMC-11Oxia PalusMC-12ArabiaMC-13Syrtis MajorMC-14AmenthesMC-15ElysiumMC-16MemnoniaMC-17PhoenicisMC-18CopratesMC-19MargaritiferMC-20SabaeusMC-21IapygiaMC-22TyrrhenumMC-23AeolisMC-24PhaethontisMC-25ThaumasiaMC-26ArgyreMC-27NoachisMC-28HellasMC-29EridaniaMC-30Mare Australe
+The image above contains clickable linksClickable image of the 30 cartographic quadrangles of Mars, defined by the USGS.[151][152] Quadrangle numbers (beginning with MC for "Mars Chart")[153] and names link to the corresponding articles. North is at the top; 0°N 180°W is at the far left on the equator. The map images were taken by the Mars Global Surveyor.(viewtalk)
+Impact topography
+
+Newly formed impact crater (est 2016 – 2019). False blue color highlights exposed bedrock
+
+Bonneville crater and Spirit rover's lander
+The dichotomy of Martian topography is striking: northern plains flattened by lava flows contrast with the southern highlands, pitted and cratered by ancient impacts. Research in 2008 has presented evidence regarding a theory proposed in 1980 postulating that, four billion years ago, the northern hemisphere of Mars was struck by an object one-tenth to two-thirds the size of Earth's Moon. If validated, this would make the northern hemisphere of Mars the site of an impact crater 10,600 by 8,500 kilometres (6,600 by 5,300 mi) in size, or roughly the area of Europe, Asia, and Australia combined, surpassing the South Pole–Aitken basin as the largest impact crater in the Solar System.[19][20]
+
+
+Fresh asteroid impact on Mars at 3.34°N 219.38°E. These before and after images of the same site were taken on the Martian afternoons of 27 and 28 March 2012 respectively (MRO).[154]
+Mars is scarred by a number of impact craters: a total of 43,000 craters with a diameter of 5 kilometres (3.1 mi) or greater have been found.[155] The largest confirmed of these is the Hellas impact basin, a light albedo feature clearly visible from Earth.[156] Due to the smaller mass and size of Mars, the probability of an object colliding with the planet is about half that of Earth. Mars is located closer to the asteroid belt, so it has an increased chance of being struck by materials from that source. Mars is more likely to be struck by short-period comets, i.e., those that lie within the orbit of Jupiter.[157] In spite of this, there are far fewer craters on Mars compared with the Moon, because the atmosphere of Mars provides protection against small meteors and surface modifying processes have erased some craters.
+
+Martian craters can have a morphology that suggests the ground became wet after the meteor impacted.[158]
+
+Volcanoes
+
+Viking 1 image of Olympus Mons. The volcano and related terrain are approximately 550 km (340 mi) across.
+Main article: Volcanology of Mars
+The shield volcano Olympus Mons (Mount Olympus) is an extinct volcano in the vast upland region Tharsis, which contains several other large volcanoes. Olympus Mons is roughly three times the height of Mount Everest, which in comparison stands at just over 8.8 kilometres (5.5 mi).[159] It is either the tallest or second-tallest mountain in the Solar System, depending on how it is measured, with various sources giving figures ranging from about 21 to 27 kilometres (13 to 17 mi) high.[160][161]
+
+Tectonic sites
+
+Valles Marineris (2001 Mars Odyssey)
+The large canyon, Valles Marineris (Latin for "Mariner Valleys", also known as Agathadaemon in the old canal maps), has a length of 4,000 kilometres (2,500 mi) and a depth of up to 7 kilometres (4.3 mi). The length of Valles Marineris is equivalent to the length of Europe and extends across one-fifth the circumference of Mars. By comparison, the Grand Canyon on Earth is only 446 kilometres (277 mi) long and nearly 2 kilometres (1.2 mi) deep. Valles Marineris was formed due to the swelling of the Tharsis area, which caused the crust in the area of Valles Marineris to collapse. In 2012, it was proposed that Valles Marineris is not just a graben, but a plate boundary where 150 kilometres (93 mi) of transverse motion has occurred, making Mars a planet with possibly a two-tectonic plate arrangement.[162][163]
+
+Holes
+Images from the Thermal Emission Imaging System (THEMIS) aboard NASA's Mars Odyssey orbiter have revealed seven possible cave entrances on the flanks of the volcano Arsia Mons.[164] The caves, named after loved ones of their discoverers, are collectively known as the "seven sisters".[165] Cave entrances measure from 100 to 252 metres (328 to 827 ft) wide and they are estimated to be at least 73 to 96 metres (240 to 315 ft) deep. Because light does not reach the floor of most of the caves, it is possible that they extend much deeper than these lower estimates and widen below the surface. "Dena" is the only exception; its floor is visible and was measured to be 130 metres (430 ft) deep. The interiors of these caverns may be protected from micrometeoroids, UV radiation, solar flares and high energy particles that bombard the planet's surface.[166]
+
+Atmosphere
+Main article: Atmosphere of Mars
+
+The tenuous atmosphere of Mars visible on the horizon
+Mars lost its magnetosphere 4 billion years ago,[167] possibly because of numerous asteroid strikes,[168] so the solar wind interacts directly with the Martian ionosphere, lowering the atmospheric density by stripping away atoms from the outer layer. Both Mars Global Surveyor and Mars Express have detected ionised atmospheric particles trailing off into space behind Mars,[167][169] and this atmospheric loss is being studied by the MAVEN orbiter. Compared to Earth, the atmosphere of Mars is quite rarefied. Atmospheric pressure on the surface today ranges from a low of 30 Pa (0.0044 psi) on Olympus Mons to over 1,155 Pa (0.1675 psi) in Hellas Planitia, with a mean pressure at the surface level of 600 Pa (0.087 psi).[170] The highest atmospheric density on Mars is equal to that found 35 kilometres (22 mi)[171] above Earth's surface. The resulting mean surface pressure is only 0.6% of that of Earth 101.3 kPa (14.69 psi). The scale height of the atmosphere is about 10.8 kilometres (6.7 mi),[172] which is higher than Earth's, 6 kilometres (3.7 mi), because the surface gravity of Mars is only about 38% of Earth's, an effect offset by both the lower temperature and 50% higher average molecular weight of the atmosphere of Mars.
+
+The atmosphere of Mars consists of about 96% carbon dioxide, 1.93% argon and 1.89% nitrogen along with traces of oxygen and water.[10][173] The atmosphere is quite dusty, containing particulates about 1.5 µm in diameter which give the Martian sky a tawny color when seen from the surface.[174] It may take on a pink hue due to iron oxide particles suspended in it.[17]
+
+Methane
+Main article: Methane on Mars
+
+Potential sources and sinks of methane (CH
+4) on Mars
+Methane has been detected in the Martian atmosphere;[175][176] it occurs in extended plumes, and the profiles imply that the methane is released from discrete regions. The concentration of methane fluctuates from about 0.24 ppb during the northern winter to about 0.65 ppb during the summer.[177]
+
+Estimates of its lifetime range from 0.6 to 4 years,[178][179] so its presence indicates that an active source of the gas must be present. Methane could be produced by non-biological process such as serpentinization involving water, carbon dioxide, and the mineral olivine, which is known to be common on Mars.[180] Methanogenic microbial life forms in the subsurface are among possible sources. But even if rover missions determine that microscopic Martian life is the source of the methane, the life forms likely reside far below the surface, outside of the rover's reach.[181]
+
+
+Escaping atmosphere on Mars (carbon, oxygen, and hydrogen) by MAVEN in UV[182]
+Aurora
+In 1994, the European Space Agency's Mars Express found an ultraviolet glow coming from "magnetic umbrellas" in the southern hemisphere. Mars does not have a global magnetic field which guides charged particles entering the atmosphere. Mars has multiple umbrella-shaped magnetic fields mainly in the southern hemisphere, which are remnants of a global field that decayed billions of years ago.
+
+In late December 2014, NASA's MAVEN spacecraft detected evidence of widespread auroras in Mars's northern hemisphere and descended to approximately 20–30° North latitude of Mars's equator. The particles causing the aurora penetrated into the Martian atmosphere, creating auroras below 100 km above the surface, Earth's auroras range from 100 km to 500 km above the surface. Magnetic fields in the solar wind drape over Mars, into the atmosphere, and the charged particles follow the solar wind magnetic field lines into the atmosphere, causing auroras to occur outside the magnetic umbrellas.[183]
+
+On 18 March 2015, NASA reported the detection of an aurora that is not fully understood and an unexplained dust cloud in the atmosphere of Mars.[184]
+
+In September 2017, NASA reported radiation levels on the surface of the planet Mars were temporarily doubled, and were associated with an aurora 25 times brighter than any observed earlier, due to a massive, and unexpected, solar storm in the middle of the month.[185]
+
+Climate
+Main article: Climate of Mars
+Of all the planets in the Solar System, the seasons of Mars are the most Earth-like, due to the similar tilts of the two planets' rotational axes. The lengths of the Martian seasons are about twice those of Earth's because Mars's greater distance from the Sun leads to the Martian year being about two Earth years long. Martian surface temperatures vary from lows of about −143 °C (−225 °F) at the winter polar caps[13] to highs of up to 35 °C (95 °F) in equatorial summer.[14] The wide range in temperatures is due to the thin atmosphere which cannot store much solar heat, the low atmospheric pressure, and the low thermal inertia of Martian soil.[186] The planet is 1.52 times as far from the Sun as Earth, resulting in just 43% of the amount of sunlight.[187]
+
+If Mars had an Earth-like orbit, its seasons would be similar to Earth's because its axial tilt is similar to Earth's. The comparatively large eccentricity of the Martian orbit has a significant effect. Mars is near perihelion when it is summer in the southern hemisphere and winter in the north, and near aphelion when it is winter in the southern hemisphere and summer in the north. As a result, the seasons in the southern hemisphere are more extreme and the seasons in the northern are milder than would otherwise be the case. The summer temperatures in the south can be warmer than the equivalent summer temperatures in the north by up to 30 °C (54 °F).[188]
+
+Mars has the largest dust storms in the Solar System, reaching speeds of over 160 km/h (100 mph). These can vary from a storm over a small area, to gigantic storms that cover the entire planet. They tend to occur when Mars is closest to the Sun, and have been shown to increase the global temperature.[189]
+
+
+Mars (before/after) global dust storm (July 2018)
+Dust storms on Mars
+
+18 November 2012
+
+25 November 2012
+
+6 June 2018[190]
+Locations of the Opportunity and Curiosity rovers are noted
+Orbit and rotation
+Main article: Orbit of Mars
+
+Mars is about 230 million km (143 million mi) from the Sun; its orbital period is 687 (Earth) days, depicted in red. Earth's orbit is in blue.
+Mars's average distance from the Sun is roughly 230 million km (143 million mi), and its orbital period is 687 (Earth) days. The solar day (or sol) on Mars is only slightly longer than an Earth day: 24 hours, 39 minutes, and 35.244 seconds.[191] A Martian year is equal to 1.8809 Earth years, or 1 year, 320 days, and 18.2 hours.[10]
+
+The axial tilt of Mars is 25.19° relative to its orbital plane, which is similar to the axial tilt of Earth.[10] As a result, Mars has seasons like Earth, though on Mars they are nearly twice as long because its orbital period is that much longer. In the present day epoch, the orientation of the north pole of Mars is close to the star Deneb.[15]
+
+Mars has a relatively pronounced orbital eccentricity of about 0.09; of the seven other planets in the Solar System, only Mercury has a larger orbital eccentricity. It is known that in the past, Mars has had a much more circular orbit. At one point, 1.35 million Earth years ago, Mars had an eccentricity of roughly 0.002, much less than that of Earth today.[192] Mars's cycle of eccentricity is 96,000 Earth years compared to Earth's cycle of 100,000 years.[193] Mars has a much longer cycle of eccentricity, with a period of 2.2 million Earth years, and this overshadows the 96,000-year cycle in the eccentricity graphs.[clarification needed] For the last 35,000 years, the orbit of Mars has been getting slightly more eccentric because of the gravitational effects of the other planets. The closest distance between Earth and Mars will continue to mildly decrease for the next 25,000 years.[194]
+
+Habitability and search for life
+Main article: Life on Mars
+
+Viking 1 lander's sampling arm scooped up soil samples for tests (Chryse Planitia)
+The current understanding of planetary habitability – the ability of a world to develop environmental conditions favorable to the emergence of life – favors planets that have liquid water on their surface. Most often this requires the orbit of a planet to lie within the habitable zone, which for the Sun extends from just beyond Venus to about the semi-major axis of Mars.[195] During perihelion, Mars dips inside this region, but Mars's thin (low-pressure) atmosphere prevents liquid water from existing over large regions for extended periods. The past flow of liquid water demonstrates the planet's potential for habitability. Recent evidence has suggested that any water on the Martian surface may have been too salty and acidic to support regular terrestrial life.[196]
+
+
+Detection of impact glass deposits (green spots) at Alga crater, a possible site for preserved ancient life[197]
+The lack of a magnetosphere and the extremely thin atmosphere of Mars are a challenge: the planet has little heat transfer across its surface, poor insulation against bombardment of the solar wind and insufficient atmospheric pressure to retain water in a liquid form (water instead sublimes to a gaseous state). Mars is nearly, or perhaps totally, geologically dead; the end of volcanic activity has apparently stopped the recycling of chemicals and minerals between the surface and interior of the planet.[198]
+
+In situ investigations have been performed on Mars by the Viking landers, Spirit and Opportunity rovers, Phoenix lander, and Curiosity rover. Evidence suggests that the planet was once significantly more habitable than it is today, but whether living organisms ever existed there remains unknown. The Viking probes of the mid-1970s carried experiments designed to detect microorganisms in Martian soil at their respective landing sites and had positive results, including a temporary increase of CO
+2 production on exposure to water and nutrients. This sign of life was later disputed by scientists, resulting in a continuing debate, with NASA scientist Gilbert Levin asserting that Viking may have found life. A re-analysis of the Viking data, in light of modern knowledge of extremophile forms of life, has suggested that the Viking tests were not sophisticated enough to detect these forms of life. The tests could even have killed a (hypothetical) life form.[199] Tests conducted by the Phoenix Mars lander have shown that the soil has an alkaline pH and it contains magnesium, sodium, potassium and chloride.[200] The soil nutrients may be able to support life, but life would still have to be shielded from the intense ultraviolet light.[201] A recent analysis of martian meteorite EETA79001 found 0.6 ppm ClO−
+4, 1.4 ppm ClO−
+3, and 16 ppm NO−
+3, most likely of Martian origin. The ClO−
+3 suggests the presence of other highly oxidizing oxychlorines, such as ClO−
+2 or ClO, produced both by UV oxidation of Cl and X-ray radiolysis of ClO−
+4. Thus, only highly refractory and/or well-protected (sub-surface) organics or life forms are likely to survive.[202]
+
+
+This image from Gale crater in 2018 prompted speculation that some shapes were worm-like fossils, but they were geological formations probably formed under water.[203]
+A 2014 analysis of the Phoenix WCL showed that the Ca(ClO
+4)
+2 in the Phoenix soil has not interacted with liquid water of any form, perhaps for as long as 600 million years. If it had, the highly soluble Ca(ClO
+4)
+2 in contact with liquid water would have formed only CaSO
+4. This suggests a severely arid environment, with minimal or no liquid water interaction.[204]
+
+Scientists have proposed that carbonate globules found in meteorite ALH84001, which is thought to have originated from Mars, could be fossilized microbes extant on Mars when the meteorite was blasted from the Martian surface by a meteor strike some 15 million years ago. This proposal has been met with skepticism, and an exclusively inorganic origin for the shapes has been proposed.[205]
+
+Small quantities of methane and formaldehyde detected by Mars orbiters are both claimed to be possible evidence for life, as these chemical compounds would quickly break down in the Martian atmosphere.[206][207] Alternatively, these compounds may instead be replenished by volcanic or other geological means, such as serpentinite.[180]
+
+
+Location of subsurface water in Planum Australe
+Impact glass, formed by the impact of meteors, which on Earth can preserve signs of life, has been found on the surface of the impact craters on Mars.[208][209] Likewise, the glass in impact craters on Mars could have preserved signs of life if life existed at the site.[210][211][212]
+
+In May 2017, evidence of the earliest known life on land on Earth may have been found in 3.48-billion-year-old geyserite and other related mineral deposits (often found around hot springs and geysers) uncovered in the Pilbara Craton of Western Australia. These findings may be helpful in deciding where best to search for early signs of life on the planet Mars.[213][214]
+
+In early 2018, media reports speculated that certain rock features at a site called Jura looked like a type of fossil, but project scientists say the formations likely resulted from a geological process at the bottom of an ancient drying lakebed, and are related to mineral veins in the area similar to gypsum crystals.[203]
+
+On 7 June 2018, NASA announced that the Curiosity rover had discovered organic compounds in sedimentary rocks dating to three billion years old,[215] indicating that some of the building blocks for life were present.[216][217]
+
+In July 2018, scientists reported the discovery of a subglacial lake on Mars, the first known stable body of water on the planet. It sits 1.5 km (0.9 mi) below the surface at the base of the southern polar ice cap and is about 20 kilometres (12 mi) wide.[218][219] The lake was discovered using the MARSIS radar on board the Mars Express orbiter, and the profiles were collected between May 2012 and December 2015.[220] The lake is centered at 193° East, 81° South, a flat area that does not exhibit any peculiar topographic characteristics. It is mostly surrounded by higher ground except on its eastern side, where there is a depression.[218]
+
+Moons
+Main articles: Moons of Mars, Phobos (moon), and Deimos (moon)
+
+Enhanced-color HiRISE image of Phobos, showing a series of mostly parallel grooves and crater chains, with Stickney crater at right
+
+Enhanced-color HiRISE image of Deimos (not to scale), showing its smooth blanket of regolith
+Mars has two relatively small (compared to Earth's) natural moons, Phobos (about 22 kilometres (14 mi) in diameter) and Deimos (about 12 kilometres (7.5 mi) in diameter), which orbit close to the planet. Asteroid capture is a long-favored theory, but their origin remains uncertain.[221] Both satellites were discovered in 1877 by Asaph Hall; they are named after the characters Phobos (panic/fear) and Deimos (terror/dread), who, in Greek mythology, accompanied their father Ares, god of war, into battle. Mars was the Roman counterpart of Ares.[222][223] In modern Greek, the planet retains its ancient name Ares (Aris: Άρης).[224]
+
+From the surface of Mars, the motions of Phobos and Deimos appear different from that of the Moon. Phobos rises in the west, sets in the east, and rises again in just 11 hours. Deimos, being only just outside synchronous orbit – where the orbital period would match the planet's period of rotation – rises as expected in the east but slowly. Despite the 30-hour orbit of Deimos, 2.7 days elapse between its rise and set for an equatorial observer, as it slowly falls behind the rotation of Mars.[225]
+
+
+Orbits of Phobos and Deimos (to scale)
+Because the orbit of Phobos is below synchronous altitude, the tidal forces from the planet Mars are gradually lowering its orbit. In about 50 million years, it could either crash into Mars's surface or break up into a ring structure around the planet.[225]
+
+The origin of the two moons is not well understood. Their low albedo and carbonaceous chondrite composition have been regarded as similar to asteroids, supporting the capture theory. The unstable orbit of Phobos would seem to point towards a relatively recent capture. But both have circular orbits, near the equator, which is unusual for captured objects and the required capture dynamics are complex. Accretion early in the history of Mars is plausible, but would not account for a composition resembling asteroids rather than Mars itself, if that is confirmed.
+
+A third possibility is the involvement of a third body or a type of impact disruption.[226] More-recent lines of evidence for Phobos having a highly porous interior,[227] and suggesting a composition containing mainly phyllosilicates and other minerals known from Mars,[228] point toward an origin of Phobos from material ejected by an impact on Mars that reaccreted in Martian orbit,[229] similar to the prevailing theory for the origin of Earth's moon. Although the VNIR spectra of the moons of Mars resemble those of outer-belt asteroids, the thermal infrared spectra of Phobos are reported to be inconsistent with chondrites of any class.[228]
+
+Mars may have moons smaller than 50 to 100 metres (160 to 330 ft) in diameter, and a dust ring is predicted to exist between Phobos and Deimos.[22]
+
+Exploration
+Main article: Exploration of Mars
+
+The descent stage of the Mars Science Laboratory mission carrying the Curiosity rover deploys its parachutes to decelerate itself before landing.
+Dozens of crewless spacecraft, including orbiters, landers, and rovers, have been sent to Mars by the Soviet Union, the United States, Europe, and India to study the planet's surface, climate, and geology.
+
+As of 2018, Mars is host to eight functioning spacecraft: six in orbit – 2001 Mars Odyssey, Mars Express, Mars Reconnaissance Orbiter, MAVEN, Mars Orbiter Mission and ExoMars Trace Gas Orbiter – and two on the surface – Mars Science Laboratory Curiosity (rover) and InSight (lander). The public can request images of Mars via the Mars Reconnaissance Orbiter's HiWish program.
+
+The Mars Science Laboratory, named Curiosity, launched on 26 November 2011, and reached Mars on 6 August 2012 UTC. It is larger and more advanced than the Mars Exploration Rovers, with a movement rate up to 90 metres (300 ft) per hour.[230] Experiments include a laser chemical sampler that can deduce the make-up of rocks at a distance of 7 metres (23 ft).[231] On 10 February 2013, the Curiosity rover obtained the first deep rock samples ever taken from another planetary body, using its on-board drill.[232] The same year, it discovered that Mars's soil contains between 1.5% and 3% water by mass (albeit attached to other compounds and thus not freely accessible).[233] Observations by the Mars Reconnaissance Orbiter had previously revealed the possibility of flowing water during the warmest months on Mars.[234]
+
+On 24 September 2014, Mars Orbiter Mission (MOM), launched by the Indian Space Research Organisation (ISRO), reached Mars orbit. ISRO launched MOM on 5 November 2013, with the aim of analyzing the Martian atmosphere and topography. The Mars Orbiter Mission used a Hohmann transfer orbit to escape Earth's gravitational influence and catapult into a nine-month-long voyage to Mars. The mission is the first successful Asian interplanetary mission.[235]
+
+The European Space Agency, in collaboration with Roscosmos, launched the ExoMars Trace Gas Orbiter and Schiaparelli lander on 14 March 2016.[236] While the Trace Gas Orbiter successfully entered Mars orbit on 19 October 2016, Schiaparelli crashed during its landing attempt.[237]
+
+In May 2018, NASA's InSight lander was launched, along with the twin MarCO CubeSats that flew by Mars and acted as telemetry relays during the landing. The mission arrived at Mars in November 2018.[238][239] InSight detected potential seismic activity (a "marsquake") in April 2019.[240][241]
+
+
+InSight Lander – panorama (9 December 2018)
+In 2019, MAVEN spacecraft mapped high-altitude global wind patterns at Mars for the first time.[242][243] It was discovered that the winds which are miles above the surface retained information about the land forms below.[242]
+
+Future
+Main article: Exploration of Mars § Timeline of Mars exploration
+
+Concept for a Bimodal Nuclear Thermal Transfer Vehicle in low Earth orbit
+NASA launched the Mars 2020 mission on 30 July 2020.[244] The mission will cache samples for future retrieval and return to Earth. The current concept for the Mars sample-return mission would launch in 2026 and feature hardware built by NASA and ESA.[245] The European Space Agency will launch the ExoMars rover and surface platform sometime between August and October 2022.[246]
+
+The United Arab Emirates' Mars Hope orbiter was launched on 19 July 2020, and is scheduled to reach Mars in 2021. The probe will conduct a global study of the Martian atmosphere.[247]
+
+Several plans for a human mission to Mars have been proposed throughout the 20th and 21st centuries, but no human mission has yet launched. SpaceX founder Elon Musk presented a plan in September 2016 to, optimistically, launch a crewed mission to Mars in 2024 at an estimated development cost of US$10 billion, but this mission is not expected to take place before 2027.[248] In October 2016, President Barack Obama renewed United States policy to pursue the goal of sending humans to Mars in the 2030s, and to continue using the International Space Station as a technology incubator in that pursuit.[249][250] The NASA Authorization Act of 2017 directed NASA to get humans near or on the surface of Mars by the early 2030s.[251]
+
+Astronomy on Mars
+Main article: Astronomy on Mars
+See also: Solar eclipses on Mars
+With the presence of various orbiters, landers, and rovers, it is possible to practice astronomy from Mars. Although Mars's moon Phobos appears about one-third the angular diameter of the full moon on Earth, Deimos appears more or less star-like, looking only slightly brighter than Venus does from Earth.[252]
+
+Various phenomena seen from Earth have also been observed from Mars, such as meteors and auroras.[253] The apparent sizes of the moons Phobos and Deimos are sufficiently smaller than that of the Sun; thus, their partial "eclipses" of the Sun are best considered transits (see transit of Deimos and Phobos from Mars).[254][255] Transits of Mercury and Venus have been observed from Mars. A transit of Earth will be seen from Mars on 10 November 2084.[256]
+
+On 19 October 2014, comet Siding Spring passed extremely close to Mars, so close that the coma may have enveloped Mars.[257][258][259][260][261][262]
+
+
+Earth and the Moon (MRO HiRISE, November 2016)[263]
+
+Phobos transits the Sun (Opportunity, 10 March 2004)
+
+Tracking sunspots from Mars
+Viewing
+
+Animation of the apparent retrograde motion of Mars in 2003 as seen from Earth.
+The mean apparent magnitude of Mars is +0.71 with a standard deviation of 1.05.[12] Because the orbit of Mars is eccentric, the magnitude at opposition from the Sun can range from about −3.0 to −1.4.[264] The minimum brightness is magnitude +1.86 when the planet is in conjunction with the Sun.[12] At its brightest, Mars (along with Jupiter) are second only to Venus in luminosity.[12] Mars usually appears distinctly yellow, orange, or red. NASA's Spirit rover has taken pictures of a greenish-brown, mud-colored landscape with blue-grey rocks and patches of light red sand.[265] When farthest away from Earth, it is more than seven times farther away than when it is closest. When least favorably positioned, it can be lost in the Sun's glare for months at a time. At its most favorable times — at 15-year or 17-year intervals, and always between late July and late September — a lot of surface detail can be seen with a telescope. Especially noticeable, even at low magnification, are the polar ice caps.[266]
+
+As Mars approaches opposition, it begins a period of retrograde motion, which means it will appear to move backwards in a looping motion with respect to the background stars. The duration of this retrograde motion lasts for about 72 days, and Mars reaches its peak luminosity in the middle of this motion.[267]
+
+Closest approaches
+Relative
+
+Geocentric animation of Mars's orbit relative to Earth from January 2003 to January 2019
+  Mars ·   Earth
+
+Mars distance from Earth in millions of km (Gm).
+The point at which Mars's geocentric longitude is 180° different from the Sun's is known as opposition, which is near the time of closest approach to Earth. The time of opposition can occur as much as 8.5 days away from the closest approach. The distance at close approach varies between about 54 and 103 million km (34 and 64 million mi) due to the planets' elliptical orbits, which causes comparable variation in angular size.[268][269] The last Mars opposition occurred on 27 July 2018,[270] at a distance of about 58 million km (36 million mi).[271] The next Mars opposition occurs on 13 October 2020, at a distance of about 63 million km (39 million mi).[271] The average time between the successive oppositions of Mars, its synodic period, is 780 days; but the number of days between the dates of successive oppositions can range from 764 to 812.[272]
+
+As Mars approaches opposition it begins a period of retrograde motion, which makes it appear to move backwards in a looping motion relative to the background stars. The duration of this retrograde motion is about 72 days.
+
+Absolute, around the present time
+Mars made its closest approach to Earth and maximum apparent brightness in nearly 60,000 years, 55,758,006 km (0.37271925 AU; 34,646,419 mi), magnitude −2.88, on 27 August 2003, at 09:51:13 UTC. This occurred when Mars was one day from opposition and about three days from its perihelion, making it particularly easy to see from Earth. The last time it came so close is estimated to have been on 12 September 57,617 BC, the next time being in 2287.[273] This record approach was only slightly closer than other recent close approaches. For instance, the minimum distance on 22 August 1924, was 0.37285 AU, and the minimum distance on 24 August 2208, will be 0.37279 AU.[193]
+
+Every 15 to 17 years, Mars comes into opposition near its perihelion. These perihelic oppositions make a closer approach to earth than other oppositions which occur every 2.1 years. Mars comes into perihelic opposition in 2003, 2018 and 2035, with 2020 and 2033 being close to perihelic opposition.
+
+Historical observations
+Main article: History of Mars observation
+The history of observations of Mars is marked by the oppositions of Mars, when the planet is closest to Earth and hence is most easily visible, which occur every couple of years. Even more notable are the perihelic oppositions of Mars, which occur every 15 or 17 years and are distinguished because Mars is close to perihelion, making it even closer to Earth.
+
+Ancient and medieval observations
+
+Galileo Galilei, first person to see Mars via telescope in 1610.[274]
+The ancient Sumerians believed that Mars was Nergal, the god of war and plague.[275] During Sumerian times, Nergal was a minor deity of little significance,[275] but, during later times, his main cult center was the city of Nineveh.[275] In Mesopotamian texts, Mars is referred to as the "star of judgement of the fate of the dead".[276] The existence of Mars as a wandering object in the night sky was recorded by the ancient Egyptian astronomers and, by 1534 BCE, they were familiar with the retrograde motion of the planet.[277] By the period of the Neo-Babylonian Empire, the Babylonian astronomers were making regular records of the positions of the planets and systematic observations of their behavior. For Mars, they knew that the planet made 37 synodic periods, or 42 circuits of the zodiac, every 79 years. They invented arithmetic methods for making minor corrections to the predicted positions of the planets.[278][279] In Ancient Greece, the planet was known as Πυρόεις.[280]
+
+In the fourth century BCE, Aristotle noted that Mars disappeared behind the Moon during an occultation, indicating that the planet was farther away.[281] Ptolemy, a Greek living in Alexandria,[282] attempted to address the problem of the orbital motion of Mars. Ptolemy's model and his collective work on astronomy was presented in the multi-volume collection Almagest, which became the authoritative treatise on Western astronomy for the next fourteen centuries.[283] Literature from ancient China confirms that Mars was known by Chinese astronomers by no later than the fourth century BCE.[284] In the East Asian cultures, Mars is traditionally referred to as the "fire star" (Chinese: 火星), based on the Five elements.[285][286][287]
+
+During the seventeenth century, Tycho Brahe measured the diurnal parallax of Mars that Johannes Kepler used to make a preliminary calculation of the relative distance to the planet.[288] When the telescope became available, the diurnal parallax of Mars was again measured in an effort to determine the Sun-Earth distance. This was first performed by Giovanni Domenico Cassini in 1672. The early parallax measurements were hampered by the quality of the instruments.[289] The only occultation of Mars by Venus observed was that of 13 October 1590, seen by Michael Maestlin at Heidelberg.[290] In 1610, Mars was viewed by Italian astronomer Galileo Galilei, who was first to see it via telescope.[274] The first person to draw a map of Mars that displayed any terrain features was the Dutch astronomer Christiaan Huygens.[291]
+
+Martian "canals"
+
+Map of Mars by Giovanni Schiaparelli
+
+Mars sketched as observed by Lowell before 1914 (south on top)
+
+Map of Mars from the Hubble Space Telescope as seen near the 1999 opposition (north on top)
+Main article: Martian canal
+By the 19th century, the resolution of telescopes reached a level sufficient for surface features to be identified. A perihelic opposition of Mars occurred on 5 September 1877. In that year, the Italian astronomer Giovanni Schiaparelli used a 22 centimetres (8.7 in) telescope in Milan to help produce the first detailed map of Mars. These maps notably contained features he called canali, which were later shown to be an optical illusion. These canali were supposedly long, straight lines on the surface of Mars, to which he gave names of famous rivers on Earth. His term, which means "channels" or "grooves", was popularly mistranslated in English as "canals".[292][293]
+
+Influenced by the observations, the orientalist Percival Lowell founded an observatory which had 30 and 45 centimetres (12 and 18 in) telescopes. The observatory was used for the exploration of Mars during the last good opportunity in 1894 and the following less favorable oppositions. He published several books on Mars and life on the planet, which had a great influence on the public.[294][295] The canali were independently found by other astronomers, like Henri Joseph Perrotin and Louis Thollon in Nice, using one of the largest telescopes of that time.[296][297]
+
+The seasonal changes (consisting of the diminishing of the polar caps and the dark areas formed during Martian summer) in combination with the canals led to speculation about life on Mars, and it was a long-held belief that Mars contained vast seas and vegetation. The telescope never reached the resolution required to give proof to any speculations. As bigger telescopes were used, fewer long, straight canali were observed. During an observation in 1909 by Camille Flammarion with an 84 centimetres (33 in) telescope, irregular patterns were observed, but no canali were seen.[298]
+
+Even in the 1960s, articles were published on Martian biology, putting aside explanations other than life for the seasonal changes on Mars. Detailed scenarios for the metabolism and chemical cycles for a functional ecosystem have been published.[299]
+
+Spacecraft visitation
+Main article: Exploration of Mars
+Once spacecraft visited the planet during NASA's Mariner missions in the 1960s and 1970s, these concepts were radically broken. The results of the Viking life-detection experiments aided an intermission in which the hypothesis of a hostile, dead planet was generally accepted.[300]
+
+Mariner 9 and Viking allowed better maps of Mars to be made using the data from these missions, and another major leap forward was the Mars Global Surveyor mission, launched in 1996 and operated until late 2006, that allowed complete, extremely detailed maps of the Martian topography, magnetic field and surface minerals to be obtained.[301] These maps are available online; for example, at Google Mars. Mars Reconnaissance Orbiter and Mars Express continued exploring with new instruments, and supporting lander missions. NASA provides two online tools: Mars Trek, which provides visualizations of the planet using data from 50 years of exploration, and Experience Curiosity, which simulates traveling on Mars in 3-D with Curiosity.[302]
+
+In culture
+Main articles: Mars in culture and Mars in fiction
+Mars symbol.svg
+Mars is named after the Roman god of war. In different cultures, Mars represents masculinity and youth. Its symbol, a circle with an arrow pointing out to the upper right, is used as a symbol for the male gender.
+
+The many failures in Mars exploration probes resulted in a satirical counter-culture blaming the failures on an Earth-Mars "Bermuda Triangle", a "Mars Curse", or a "Great Galactic Ghoul" that feeds on Martian spacecraft.[303]
+
+Intelligent "Martians"
+The fashionable idea that Mars was populated by intelligent Martians exploded in the late 19th century. Schiaparelli's "canali" observations combined with Percival Lowell's books on the subject put forward the standard notion of a planet that was a drying, cooling, dying world with ancient civilizations constructing irrigation works.[304]
+
+
+An 1893 soap ad playing on the popular idea that Mars was populated
+Many other observations and proclamations by notable personalities added to what has been termed "Mars Fever".[305] In 1899, while investigating atmospheric radio noise using his receivers in his Colorado Springs lab, inventor Nikola Tesla observed repetitive signals that he later surmised might have been radio communications coming from another planet, possibly Mars. In a 1901 interview, Tesla said:
+
+It was some time afterward when the thought flashed upon my mind that the disturbances I had observed might be due to an intelligent control. Although I could not decipher their meaning, it was impossible for me to think of them as having been entirely accidental. The feeling is constantly growing on me that I had been the first to hear the greeting of one planet to another.[306]
+
+Tesla's theories gained support from Lord Kelvin who, while visiting the United States in 1902, was reported to have said that he thought Tesla had picked up Martian signals being sent to the United States.[307] Kelvin "emphatically" denied this report shortly before leaving: "What I really said was that the inhabitants of Mars, if there are any, were doubtless able to see New York, particularly the glare of the electricity."[308]
+
+In a New York Times article in 1901, Edward Charles Pickering, director of the Harvard College Observatory, said that they had received a telegram from Lowell Observatory in Arizona that seemed to confirm that Mars was trying to communicate with Earth.[309]
+
+Early in December 1900, we received from Lowell Observatory in Arizona a telegram that a shaft of light had been seen to project from Mars (the Lowell observatory makes a specialty of Mars) lasting seventy minutes. I wired these facts to Europe and sent out neostyle copies through this country. The observer there is a careful, reliable man and there is no reason to doubt that the light existed. It was given as from a well-known geographical point on Mars. That was all. Now the story has gone the world over. In Europe, it is stated that I have been in communication with Mars, and all sorts of exaggerations have spring up. Whatever the light was, we have no means of knowing. Whether it had intelligence or not, no one can say. It is absolutely inexplicable.[309]
+
+Pickering later proposed creating a set of mirrors in Texas, intended to signal Martians.[310]
+
+
+Martian tripod illustration from the 1906 French edition of The War of the Worlds by H. G. Wells
+In recent decades, the high-resolution mapping of the surface of Mars, culminating in Mars Global Surveyor, revealed no artifacts of habitation by "intelligent" life, but pseudoscientific speculation about intelligent life on Mars continues from commentators such as Richard C. Hoagland. Reminiscent of the canali controversy, these speculations are based on small scale features perceived in the spacecraft images, such as "pyramids" and the "Face on Mars". Planetary astronomer Carl Sagan wrote:
+
+Mars has become a kind of mythic arena onto which we have projected our Earthly hopes and fears.[293]
+
+The depiction of Mars in fiction has been stimulated by its dramatic red color and by nineteenth century scientific speculations that its surface conditions might support not just life but intelligent life.[311] Thus originated a large number of science fiction scenarios, among which is H. G. Wells' The War of the Worlds, published in 1898, in which Martians seek to escape their dying planet by invading Earth.
+
+Influential works included Ray Bradbury's The Martian Chronicles, in which human explorers accidentally destroy a Martian civilization, Edgar Rice Burroughs' Barsoom series, C. S. Lewis' novel Out of the Silent Planet (1938),[312] and a number of Robert A. Heinlein stories before the mid-sixties.[313]
+
+Jonathan Swift made reference to the moons of Mars, about 150 years before their actual discovery by Asaph Hall, detailing reasonably accurate descriptions of their orbits, in the 19th chapter of his novel Gulliver's Travels.[314]
+
+A comic figure of an intelligent Martian, Marvin the Martian, appeared in Haredevil Hare (1948) as a character in the Looney Tunes animated cartoons of Warner Brothers, and has continued as part of popular culture to the present.[315]
+
+After the Mariner and Viking spacecraft had returned pictures of Mars as it really is, an apparently lifeless and canal-less world, these ideas about Mars had to be abandoned, and a vogue for accurate, realist depictions of human colonies on Mars developed, the best known of which may be Kim Stanley Robinson's Mars trilogy. Pseudo-scientific speculations about the Face on Mars and other enigmatic landmarks spotted by space probes have meant that ancient civilizations continue to be a popular theme in science fiction, especially in film.[316]
+
+Interactive Mars map
+Map of Mars
+The image above contains clickable linksInteractive image map of the global topography of Mars. Hover your mouse over the image to see the names of over 60 prominent geographic features, and click to link to them. Coloring of the base map indicates relative elevations, based on data from the Mars Orbiter Laser Altimeter on NASA's Mars Global Surveyor. Whites and browns indicate the highest elevations (+12 to +8 km); followed by pinks and reds (+8 to +3 km); yellow is 0 km; greens and blues are lower elevations (down to −8 km). Axes are latitude and longitude; Polar regions are noted.(See also: Mars Rovers map and Mars Memorial map) (view • discuss)
+
+See also
+	Solar System portal
+List of missions to Mars
+Mars monolith
+Outline of Mars
+Timekeeping on Mars
+Notes
+ This image was taken by the Rosetta spacecraft's Optical, Spectroscopic, and Infrared Remote Imaging System (OSIRIS), at a distance of ≈240,000 kilometres (150,000 mi) during its February 2007 encounter. The view is centered on the Aeolis quadrangle, with Gale crater, the landing site of the Curiosity rover, prominently visible just left of center. The darker, more heavily cratered terrain in the south, Terra Cimmeria, is composed of older terrain than the much smoother and brighter Elysium Planitia to the north. Geologically recent processes, such as the possible existence of a global ocean in Mars's past, could have helped lower-elevated areas, such as Elysium Planitia, retain a more youthful look.
+ Best-fit ellipsoid
+References
+ Williams, David (2018). "Mars Fact Sheet". NASA Goddard Space Flight Center. Archived from the original on 17 March 2020. Retrieved 22 March 2020.; Mean Anomaly (deg) 19.412 = (Mean Longitude (deg) 355.45332) - (Longitude of perihelion (deg) 336.04084)  This article incorporates text from this source, which is in the public domain.
+ "The MeanPlane (Invariable plane) of the Solar System passing through the barycenter". 3 April 2009. Archived from the original on 14 May 2009. Retrieved 10 April 2009. (produced with Solex 10 Archived 29 April 2009 at WebCite written by Aldo Vitagliano; see also invariable plane)
+ JPL Horizons for Mars (mb=499) and Observer Location: @Sun
+ Simon, J.L.; Bretagnon, P.; Chapront, J.; Chapront-Touzé, M.; Francou, G.; Laskar, J. (February 1994). "Numerical expressions for precession formulae and mean elements for the Moon and planets". Astronomy and Astrophysics. 282 (2): 663–683. Bibcode:1994A&A...282..663S.
+ Seidelmann, P. Kenneth; Archinal, Brent A.; A'Hearn, Michael F.; et al. (2007). "Report of the IAU/IAG Working Group on cartographic coordinates and rotational elements: 2006". Celestial Mechanics and Dynamical Astronomy. 98 (3): 155–180. Bibcode:2007CeMDA..98..155S. doi:10.1007/s10569-007-9072-y.
+ Grego, Peter (6 June 2012). Mars and How to Observe It. Springer Science+Business Media. p. 3. ISBN 978-1-4614-2302-7 – via Internet Archive.
+ Lodders, Katharina; Fegley, Bruce (1998). The Planetary Scientist's Companion. Oxford University Press. p. 190. ISBN 978-0-19-511694-6.
+ Konopliv, Alex S.; Asmar, Sami W.; Folkner, William M.; Karatekin, Özgür; Nunes, Daniel C.; et al. (January 2011). "Mars high resolution gravity fields from MRO, Mars seasonal gravity, and other dynamical parameters". Icarus. 211 (1): 401–428. Bibcode:2011Icar..211..401K. doi:10.1016/j.icarus.2010.10.004.
+ Hirt, C.; Claessens, S. J.; Kuhn, M.; Featherstone, W. E. (July 2012). "Kilometer-resolution gravity field of Mars: MGM2011" (PDF). Planetary and Space Science. 67 (1): 147–154. Bibcode:2012P&SS...67..147H. doi:10.1016/j.pss.2012.02.006. hdl:20.500.11937/32270.
+ Williams, David R. (1 September 2004). "Mars Fact Sheet". National Space Science Data Center. NASA. Archived from the original on 12 June 2010. Retrieved 24 June 2006.  This article incorporates text from this source, which is in the public domain.
+ Mallama, A. (2007). "The magnitude and albedo of Mars". Icarus. 192 (2): 404–416. Bibcode:2007Icar..192..404M. doi:10.1016/j.icarus.2007.07.011.
+ Mallama, Anthony; Hilton, James L. (October 2018). "Computing apparent planetary magnitudes for The Astronomical Almanac". Astronomy and Computing. 25: 10–24. arXiv:1808.01973. Bibcode:2018A&C....25...10M. doi:10.1016/j.ascom.2018.08.002. S2CID 69912809.
+ "What is the typical temperature on Mars?". Astronomycafe.net. Retrieved 14 August 2012.
+ "Mars Exploration Rover Mission: Spotlight". Marsrover.nasa.gov. 12 June 2007. Archived from the original on 2 November 2013. Retrieved 14 August 2012.  This article incorporates text from this source, which is in the public domain.
+ Barlow, Nadine G. (2008). Mars: an introduction to its interior, surface and atmosphere. Cambridge planetary science. 8. Cambridge University Press. p. 21. ISBN 978-0-521-85226-5.
+ Zubrin, Robert; Wagner, Richard (1997). The Case for Mars: The Plan to Settle the Red Planet and Why We Must. New York: Touchstone. ISBN 978-0-684-83550-1. OCLC 489144963.
+ Rees, Martin J., ed. (October 2012). Universe: The Definitive Visual Guide. New York: Dorling Kindersley. pp. 160–161. ISBN 978-0-7566-9841-6.
+ "The Lure of Hematite". Science@NASA. NASA. 28 March 2001. Archived from the original on 14 January 2010. Retrieved 24 December 2009.
+ Yeager, Ashley (19 July 2008). "Impact May Have Transformed Mars". ScienceNews.org. Retrieved 12 August 2008.
+ Sample, Ian (26 June 2008). "Cataclysmic impact created north-south divide on Mars". London: Science @ guardian.co.uk. Retrieved 12 August 2008.
+ Millis, John P. "Mars Moon Mystery". About.com. Space.
+ Adler, M.; Owen, W.; Riedel, J. (June 2012). Use of MRO Optical Navigation Camera to Prepare for Mars Sample Return (PDF). Concepts and Approaches for Mars Exploration. 12–14 June 2012. Houston, Texas. 4337. Bibcode:2012LPICo1679.4337A.
+ "In Depth | Mariner 04". NASA Solar System Exploration. Retrieved 9 February 2020. The Mariner 4 mission, the second of two Mars flyby attempts launched in 1964 by NASA, was one of the great early successes of the agency, and indeed the Space Age, returning the very first photos of another planet from deep space.  This article incorporates text from this source, which is in the public domain.; "NASA - NSSDCA - Spacecraft - Details". nssdc.gsfc.nasa.gov. Retrieved 9 February 2020. Mariner 4...represented the first successful flyby of the planet Mars, returning the first pictures of the martian surface. These represented the first images of another planet ever returned from deep space.  This article incorporates text from this source, which is in the public domain.
+ Shea, Garrett (20 September 2018). "Beyond Earth: A Chronicle of Deep Space Exploration". NASA. pp. 101–102. Retrieved 9 February 2020. Mars 3...Immediately after landing, at 13:50:35 UT, the lander probe began transmitting a TV image of the Martian surface although transmissions abruptly ceased after 14.5 seconds (or 20 seconds according to some sources).  This article incorporates text from this source, which is in the public domain.
+ "In Depth | Viking 1". NASA Solar System Exploration. Retrieved 9 February 2020. NASA's Viking 1 made the first truly successful landing on Mars. The Soviet Mars 3 lander claimed a technical first with a survivable landing in 1971, but contact was lost seconds after it touched down.  This article incorporates text from this source, which is in the public domain.
+ "In Depth | Mars Pathfinder". NASA Solar System Exploration. Retrieved 9 February 2020. Landing time for Pathfinder was 16:56:55 UT July 4, 1997, at 19 degrees 7 minutes 48 seconds north latitude and 33 degrees 13 minutes 12 seconds west longitude in Ares Vallis, about 12 miles (19 kilometers) southwest of the original target. The next day, Pathfinder deployed the Sojourner rover on the Martian surface via landing ramps. Sojourner was the first wheeled vehicle to be used on any planet.  This article incorporates text from this source, which is in the public domain.
+ "Frequently asked questions". www.esa.int. Retrieved 10 February 2020. Mars Express reached Mars at the end of December 2003. Six days before entering into orbit around Mars, Mars Express ejected the Beagle 2 lander. The orbiter was inserted into orbit around Mars on 25 December 2003.
+ mars.nasa.gov. "Rover Update: 2010: All". mars.nasa.gov. Retrieved 14 February 2019.  This article incorporates text from this source, which is in the public domain.; Northon, Karen (12 February 2019). "NASA to Share Results of Effort to Recover Mars Opportunity Rover". NASA. Retrieved 9 February 2020.  This article incorporates text from this source, which is in the public domain.
+ "Mars Orbiter Mission Completes 1000 Days in Orbit - ISRO". isro.gov.in. Retrieved 10 February 2020. Mars Orbiter Mission (MOM), the maiden interplanetary mission of ISRO, launched on November 5, 2013 by PSLV-C25 got inserted into Martian orbit on September 24, 2014 in its first attempt.; "India launches spacecraft to Mars". BBC News. 5 November 2013. Retrieved 10 February 2020. India's space agency will become the fourth in the world after those of the United States, Russia and Europe to undertake a successful Mars mission.
+ Jarell, Elizabeth M (26 February 2015). "Using Curiosity to Search for Life". Mars Daily. Retrieved 9 August 2015.
+ "The Mars Exploration Rover Mission" (PDF). NASA. November 2013. p. 20. Archived from the original (PDF) on 10 October 2015. Retrieved 9 August 2015.  This article incorporates text from this source, which is in the public domain.
+ Wilks, Jeremy (21 May 2015). "Mars mystery: ExoMars mission to finally resolve question of life on red planet". EuroNews. Retrieved 9 August 2015.
+ Howell, Elizabeth (5 January 2015). "Life on Mars? NASA's next rover aims to find out". The Christian Science Monitor. Retrieved 9 August 2015.
+ "NASA – NASA Rover Finds Clues to Changes in Mars' Atmosphere". NASA.  This article incorporates text from this source, which is in the public domain.
+ "NASA, Mars: Facts & Figures". Retrieved 28 January 2010. This article incorporates text from this source, which is in the public domain.
+ Heldmann, Jennifer L.; et al. (7 May 2005). "Formation of Martian gullies by the action of liquid water flowing under current Martian environmental conditions" (PDF). Journal of Geophysical Research. 110 (E5): Eo5004. Bibcode:2005JGRE..11005004H. CiteSeerX 10.1.1.596.4087. doi:10.1029/2004JE002261. Retrieved 17 September 2008. 'conditions such as now occur on Mars, outside of the temperature-pressure stability regime of liquid water'… 'Liquid water is typically stable at the lowest elevations and at low latitudes on the planet because the atmospheric pressure is greater than the vapor pressure of water and surface temperatures in equatorial regions can reach 273 K for parts of the day [Haberle et al., 2001]'
+ Kostama, V.-P.; Kreslavsky, M. A.; Head, J. W. (3 June 2006). "Recent high-latitude icy mantle in the northern plains of Mars: Characteristics and ages of emplacement". Geophysical Research Letters. 33 (11): L11201. Bibcode:2006GeoRL..3311201K. CiteSeerX 10.1.1.553.1127. doi:10.1029/2006GL025946. Retrieved 12 August 2007. 'Martian high-latitude zones are covered with a smooth, layered ice-rich mantle'.
+ Byrne, Shane; Ingersoll, Andrew P. (2003). "A Sublimation Model for Martian South Polar Ice Features". Science. 299 (5609): 1051–1053. Bibcode:2003Sci...299.1051B. doi:10.1126/science.1080148. PMID 12586939. S2CID 7819614.
+ "Mars' South Pole Ice Deep and Wide". NASA. 15 March 2007. Archived from the original on 20 April 2009. Retrieved 16 March 2007.  This article incorporates text from this source, which is in the public domain.
+ "Lake of frozen water the size of New Mexico found on Mars – NASA". The Register. 22 November 2016. Retrieved 23 November 2016.
+ "Mars Ice Deposit Holds as Much Water as Lake Superior". NASA. 22 November 2016. Retrieved 23 November 2016.  This article incorporates text from this source, which is in the public domain.
+ Staff (22 November 2016). "Scalloped Terrain Led to Finding of Buried Ice on Mars". NASA. Retrieved 23 November 2016.  This article incorporates text from this source, which is in the public domain.
+ "Slide 2 Earth Telescope View of Mars". The Red Planet: A Survey of Mars. Lunar and Planetary Institute.
+ "Mars". Oxford English Dictionary (Online ed.). Oxford University Press. (Subscription or participating institution membership required.)
+ "Planetary Names: Planet and Satellite Names and Discoverers". This article incorporates text from this source, which is in the public domain.
+ Mars. Charlton T. Lewis and Charles Short. A Latin Dictionary on Perseus Project.
+ "martial". Oxford English Dictionary (Online ed.). Oxford University Press. (Subscription or participating institution membership required.)
+ Ἄρης. Liddell, Henry George; Scott, Robert; A Greek–English Lexicon at the Perseus Project
+ E.g. in Pickering (1921) Mars.
+ "Mavors, Mavortial, Mavortian". Oxford English Dictionary (Online ed.). Oxford University Press. (Subscription or participating institution membership required.)
+  The dictionary definition of المريخ at Wiktionary
+  The dictionary definition of 火星 at Wiktionary
+  The dictionary definition of מאדים at Wiktionary
+ Peplow, Mark (6 May 2004). "How Mars got its rust". Nature. doi:10.1038/news040503-6. Retrieved 10 March 2007.
+ NASA – Mars in a Minute: Is Mars Really Red? (Transcript) This article incorporates text from this source, which is in the public domain.
+ Nimmo, Francis; Tanaka, Ken (2005). "Early Crustal Evolution of Mars". Annual Review of Earth and Planetary Sciences. 33 (1): 133–161. Bibcode:2005AREPS..33..133N. doi:10.1146/annurev.earth.33.092203.122637. S2CID 45843366.
+ Rivoldini, A.; Van Hoolst, T.; Verhoeven, O.; Mocquet, A.; Dehant, V. (June 2011). "Geodesy constraints on the interior structure and composition of Mars". Icarus. 213 (2): 451–472. Bibcode:2011Icar..213..451R. doi:10.1016/j.icarus.2011.03.024.
+ Jacqué, Dave (26 September 2003). "APS X-rays reveal secrets of Mars' core". Argonne National Laboratory. Archived from the original on 21 February 2009. Retrieved 1 July 2006.
+ Golombek, M.; Warner, N. H.; Grant, J. A.; Hauber, E.; Ansan, V.; Weitz, C. M.; Williams, N.; Charalambous, C.; Wilson, S. A.; DeMott, A.; Kopp, M.; Lethcoe-Wilson, H.; Berger, L.; Hausmann, R.; Marteau, E.; Vrettos, C.; Trussell, A.; Folkner, W.; Le Maistre, S.; Mueller, N.; Grott, M.; Spohn, T.; Piqueux, S.; Millour, E.; Forget, F.; Daubar, I.; Murdoch, N.; Lognonné, P.; Perrin, C.; Rodriguez, S.; Pike, W. T.; Parker, T.; Maki, J.; Abarca, H.; Deen, R.; Hall, J.; Andres, P.; Ruoff, N.; Calef, F.; Smrekar, S.; Baker, M. M.; Banks, M.; Spiga, A.; Banfield, D.; Garvin, J.; Newman, C. E.; Banderdt, W. B. (24 February 2020). "Geology of the InSight landing site on Mars". Nature Geoscience. 11 (1014): 1014. Bibcode:2020NatCo..11.1014G. doi:10.1038/s41467-020-14679-1. PMC 7039939. PMID 32094337.
+ Banerdt, W. Bruce; Smrekar, Suzanne E.; Banfield, Don; Giardini, Domenico; Golombek, Matthew; Johnson, Catherine L.; Lognonné, Philippe; Spiga, Aymeric; Spohn, Tilman; Perrin, Clément; Stähler, Simon C.; Antonangeli, Daniele; Asmar, Sami; Beghein, Caroline; Bowles, Neil; Bozdag, Ebru; Chi, Peter; Christensen, Ulrich; Clinton, John; Collins, Gareth S.; Daubar, Ingrid; Dehant, Véronique; Drilleau, Mélanie; Fillingim, Matthew; Folkner, William; Garcia, Raphaël F.; Garvin, Jim; Grant, John; Grott, Matthias; et al. (2020). "Initial results from the in Sight mission on Mars". Nature Geoscience. 13 (3): 183–189. Bibcode:2020NatGe..13..183B. doi:10.1038/s41561-020-0544-y.
+ McSween, Harry Y.; Taylor, G. Jeffrey; Wyatt, Michael B. (May 2009). "Elemental Composition of the Martian Crust". Science. 324 (5928): 736–739. Bibcode:2009Sci...324..736M. CiteSeerX 10.1.1.654.4713. doi:10.1126/science.1165871. PMID 19423810. S2CID 12443584.
+ Bandfield, Joshua L. (June 2002). "Global mineral distributions on Mars". Journal of Geophysical Research: Planets. 107 (E6): 9–1–9–20. Bibcode:2002JGRE..107.5042B. CiteSeerX 10.1.1.456.2934. doi:10.1029/2001JE001510.
+ Christensen, Philip R.; et al. (27 June 2003). "Morphology and Composition of the Surface of Mars: Mars Odyssey THEMIS Results" (PDF). Science. 300 (5628): 2056–2061. Bibcode:2003Sci...300.2056C. doi:10.1126/science.1080885. PMID 12791998. S2CID 25091239.
+ Golombek, Matthew P. (27 June 2003). "The Surface of Mars: Not Just Dust and Rocks". Science. 300 (5628): 2043–2044. doi:10.1126/science.1082927. PMID 12829771. S2CID 8843743.
+ Tanaka, Kenneth L.; Skinner, James A. Jr.; Dohm, James M.; Irwin, Rossman P. III; Kolb, Eric J.; Fortezzo, Corey M.; Platz, Thomas; Michael, Gregory G.; Hare, Trent M. (14 July 2014). "Geologic Map of Mars – 2014". USGS. Retrieved 22 July 2014.  This article incorporates text from this source, which is in the public domain.
+ Valentine, Theresa; Amde, Lishan (9 November 2006). "Magnetic Fields and Mars". Mars Global Surveyor @ NASA. Retrieved 17 July 2009.  This article incorporates text from this source, which is in the public domain.
+ Neal-Jones, Nancy; O'Carroll, Cynthia. "New Map Provides More Evidence Mars Once Like Earth". NASA/Goddard Space Flight Center. Retrieved 4 December 2011.  This article incorporates text from this source, which is in the public domain.
+ Halliday, A. N.; Wänke, H.; Birck, J.-L.; Clayton, R. N. (2001). "The Accretion, Composition and Early Differentiation of Mars". Space Science Reviews. 96 (1/4): 197–230. Bibcode:2001SSRv...96..197H. doi:10.1023/A:1011997206080. S2CID 55559040.
+ Zharkov, V. N. (1993). "The role of Jupiter in the formation of planets". Evolution of the Earth and Planets. Washington DC American Geophysical Union Geophysical Monograph Series. Geophysical Monograph Series. 74. pp. 7–17. Bibcode:1993GMS....74....7Z. doi:10.1029/GM074p0007. ISBN 978-1-118-66669-2.
+ Lunine, Jonathan I.; Chambers, John; Morbidelli, Alessandro; Leshin, Laurie A. (2003). "The origin of water on Mars". Icarus. 165 (1): 1–8. Bibcode:2003Icar..165....1L. doi:10.1016/S0019-1035(03)00172-6.
+ Barlow, N. G. (5–7 October 1988). H. Frey (ed.). Conditions on Early Mars: Constraints from the Cratering Record. MEVTV Workshop on Early Tectonic and Volcanic Evolution of Mars. LPI Technical Report 89-04. Easton, Maryland: Lunar and Planetary Institute. p. 15. Bibcode:1989eamd.work...15B.
+ "Giant Asteroid Flattened Half of Mars, Studies Suggest". Scientific American. Retrieved 27 June 2008.
+ Chang, Kenneth (26 June 2008). "Huge Meteor Strike Explains Mars's Shape, Reports Say". The New York Times. Retrieved 27 June 2008.
+ "Mars: The Planet that Lost an Ocean's Worth of Water". Retrieved 19 June 2015.
+ Tanaka, K. L. (1986). "The Stratigraphy of Mars". Journal of Geophysical Research. 91 (B13): E139–E158. Bibcode:1986JGR....91..139T. doi:10.1029/JB091iB13p0E139.
+ Hartmann, William K.; Neukum, Gerhard (2001). "Cratering Chronology and the Evolution of Mars". Space Science Reviews. 96 (1/4): 165–194. Bibcode:2001SSRv...96..165H. doi:10.1023/A:1011945222010. S2CID 7216371.
+ Mitchell, Karl L.; Wilson, Lionel (2003). "Mars: recent geological activity : Mars: a geologically active planet". Astronomy & Geophysics. 44 (4): 4.16–4.20. Bibcode:2003A&G....44d..16M. doi:10.1046/j.1468-4004.2003.44416.x.
+ "Mars avalanche caught on camera". Space.com. 3 March 2008. Retrieved 16 August 2018.
+ "Martian soil 'could support life'". BBC News. 27 June 2008. Retrieved 7 August 2008.
+ Chang, Alicia (5 August 2008). "Scientists: Salt in Mars soil not bad for life". USA Today. Associated Press. Retrieved 7 August 2008.
+ "NASA Spacecraft Analyzing Martian Soil Data". JPL. Retrieved 5 August 2008.  This article incorporates text from this source, which is in the public domain.
+ Kounaves, S. P.; et al. (2010). "Wet Chemistry Experiments on the 2007 Phoenix Mars Scout Lander: Data Analysis and Results". J. Geophys. Res. 115 (E3): E00–E10. Bibcode:2009JGRE..114.0A19K. doi:10.1029/2008JE003084. S2CID 39418301.
+ Kounaves, S. P.; et al. (2010). "Soluble Sulfate in the Martian Soil at the Phoenix Landing Site". Icarus. 37 (9): L09201. Bibcode:2010GeoRL..37.9201K. doi:10.1029/2010GL042613. S2CID 12914422.
+ David, Leonard (13 June 2013). "Toxic Mars: Astronauts Must Deal with Perchlorate on the Red Planet". Space.com. Retrieved 26 November 2018.
+ Sample, Ian (6 July 2017). "Mars covered in toxic chemicals that can wipe out living organisms, tests reveal". The Guardian. Retrieved 26 November 2018.
+ "Dust Devil Etch-A-Sketch (ESP_013751_1115)". NASA/JPL/University of Arizona. 2 July 2009. Retrieved 1 January 2010.
+ Schorghofer, Norbert; Aharonson, Oded; Khatiwala, Samar (2002). "Slope streaks on Mars: Correlations with surface properties and the potential role of water" (PDF). Geophysical Research Letters. 29 (23): 41–1. Bibcode:2002GeoRL..29.2126S. doi:10.1029/2002GL015889.
+ Gánti, Tibor; et al. (2003). "Dark Dune Spots: Possible Biomarkers on Mars?". Origins of Life and Evolution of the Biosphere. 33 (4): 515–557. Bibcode:2003OLEB...33..515G. doi:10.1023/A:1025705828948. PMID 14604189. S2CID 23727267.
+ "Water ice in crater at Martian north pole". ESA. 28 July 2005. Retrieved 19 March 2010.
+ Whitehouse, David (24 January 2004). "Long history of water and Mars". BBC News. Retrieved 20 March 2010.
+ "Scientists Discover Concealed Glaciers on Mars at Mid-Latitudes". University of Texas at Austin. 20 November 2008. Archived from the original on 25 July 2011. Retrieved 19 March 2010.
+ "NASA Spacecraft Confirms Martian Water, Mission Extended". Science @ NASA. 31 July 2008. Retrieved 1 August 2008.  This article incorporates text from this source, which is in the public domain.
+ Kerr, Richard A. (4 March 2005). "Ice or Lava Sea on Mars? A Transatlantic Debate Erupts". Science. 307 (5714): 1390–1391. doi:10.1126/science.307.5714.1390a. PMID 15746395. S2CID 38239541.
+ Jaeger, W. L.; et al. (21 September 2007). "Athabasca Valles, Mars: A Lava-Draped Channel System". Science. 317 (5845): 1709–1711. Bibcode:2007Sci...317.1709J. doi:10.1126/science.1143315. PMID 17885126. S2CID 128890460.
+ Lucchitta, B. K.; Rosanova, C. E. (26 August 2003). "Valles Marineris; The Grand Canyon of Mars". USGS. Archived from the original on 11 June 2011. Retrieved 11 March 2007.  This article incorporates text from this source, which is in the public domain.
+ Murray, John B.; et al. (17 March 2005). "Evidence from the Mars Express High Resolution Stereo Camera for a frozen sea close to Mars' equator". Nature. 434 (703): 352–356. Bibcode:2005Natur.434..352M. doi:10.1038/nature03379. PMID 15772653. S2CID 4373323.
+ Craddock, R.A.; Howard, A.D. (2002). "The case for rainfall on a warm, wet early Mars". Journal of Geophysical Research. 107 (E11): 21–1. Bibcode:2002JGRE..107.5111C. CiteSeerX 10.1.1.485.7566. doi:10.1029/2001JE001505.
+ Malin, Michael C.; Edgett, KS (30 June 2000). "Evidence for Recent Groundwater Seepage and Surface Runoff on Mars". Science. 288 (5475): 2330–2335. Bibcode:2000Sci...288.2330M. doi:10.1126/science.288.5475.2330. PMID 10875910. S2CID 14232446.
+ "NASA Images Suggest Water Still Flows in Brief Spurts on Mars". NASA. 6 December 2006. Retrieved 6 December 2006.  This article incorporates text from this source, which is in the public domain.
+ "Water flowed recently on Mars". BBC. 6 December 2006. Retrieved 6 December 2006.
+ "Water May Still Flow on Mars, NASA Photo Suggests". NASA. 6 December 2006. Retrieved 30 April 2006.  This article incorporates text from this source, which is in the public domain.
+ Lewis, K.W.; Aharonson, O. (2006). "Stratigraphic analysis of the distributary fan in Eberswalde crater using stereo imagery" (PDF). Journal of Geophysical Research. 111 (E06001): E06001. Bibcode:2006JGRE..111.6001L. doi:10.1029/2005JE002558.
+ Matsubara, Y.; Howard, A.D.; Drummond, S.A. (2011). "Hydrology of early Mars: Lake basins". Journal of Geophysical Research. 116 (E04001): E04001. Bibcode:2011JGRE..116.4001M. doi:10.1029/2010JE003739.
+ Steep Slopes on Mars Reveal Structure of Buried Ice. NASA Press Release. January 11, 2018.  This article incorporates text from this source, which is in the public domain.
+ Dundas, Colin M.; Bramson, Ali M.; Ojha, Lujendra; Wray, James J.; Mellon, Michael T.; Byrne, Shane; McEwen, Alfred S.; Putzig, Nathaniel E.; Viola, Donna; Sutton, Sarah; Clark, Erin; Holt, John W. (2018). "Exposed subsurface ice sheets in the Martian mid-latitudes". Science. 359 (6372): 199–201. Bibcode:2018Sci...359..199D. doi:10.1126/science.aao1619. PMID 29326269.
+ "Mineral in Mars 'Berries' Adds to Water Story" (Press release). NASA. 3 March 2004. Archived from the original on 9 November 2007. Retrieved 13 June 2006.  This article incorporates text from this source, which is in the public domain.
+ "Mars Exploration Rover Mission: Science". NASA. 12 July 2007. Archived from the original on 28 May 2010. Retrieved 10 January 2010.  This article incorporates text from this source, which is in the public domain.
+ "NASA – NASA Mars Rover Finds Mineral Vein Deposited by Water". NASA. 7 December 2011. Retrieved 14 August 2012.  This article incorporates text from this source, which is in the public domain.
+ "Rover Finds "Bulletproof" Evidence of Water on Early Mars". National Geographic. 8 December 2011. Retrieved 14 August 2012.
+ "Mars Has "Oceans" of Water Inside?". National Geographic. 26 June 2012. Retrieved 14 August 2012.
+ Staff (21 February 2005). "Mars pictures reveal frozen sea". ESA. Retrieved 19 March 2010.
+ Webster, Guy; Brown, Dwayne (18 March 2013). "Curiosity Mars Rover Sees Trend in Water Presence". NASA. Archived from the original on 19 April 2013. Retrieved 20 March 2013.  This article incorporates text from this source, which is in the public domain.
+ Rincon, Paul (19 March 2013). "Curiosity breaks rock to reveal dazzling white interior". BBC News. BBC. Retrieved 19 March 2013.
+ Staff (20 March 2013). "Red planet coughs up a white rock, and scientists freak out". MSN. Archived from the original on 23 March 2013. Retrieved 20 March 2013.
+ "NASA News Conference: Evidence of Liquid Water on Today's Mars". NASA. 28 September 2015. Retrieved 28 September 2015. This article incorporates text from this source, which is in the public domain.
+ "NASA Confirms Evidence That Liquid Water Flows on Today's Mars". NASA. 28 September 2015. Retrieved 28 September 2015.  This article incorporates text from this source, which is in the public domain.
+ Ojha, L.; Wilhelm, M. B.; Murchie, S. L.; McEwen, A. S.; Wray, J. J.; Hanley, J.; Massé, M.; Chojnacki, M. (2015). "Spectral evidence for hydrated salts in recurring slope lineae on Mars". Nature Geoscience. 8 (11): 829–832. Bibcode:2015NatGe...8..829O. doi:10.1038/ngeo2546. S2CID 59152931.
+ McEwen, Alfred; Lujendra, Ojha; Dundas, Colin; Mattson, Sarah; Bryne, S; Wray, J; Cull, Selby; Murchie, Scott; Thomas, Nicholas; Gulick, Virginia (5 August 2011). "Seasonal Flows on Warm Martian Slopes". Science. 333 (6043): 740–743. Bibcode:2011Sci...333..740M. doi:10.1126/science.1204816. PMID 21817049. S2CID 10460581. Archived from the original on 29 September 2015. Retrieved 28 September 2015.
+ Drake, Nadia (28 September 2015). "NASA Finds 'Definitive' Liquid Water on Mars". National Geographic News. Retrieved 29 September 2015.
+ Moskowitz, Clara. "Water Flows on Mars Today, NASA Announces". Retrieved 29 September 2015.
+ Head, J.W.; et al. (1999). "Possible Ancient Oceans on Mars: Evidence from Mars Orbiter Laser Altimeter Data". Science. 286 (5447): 2134–7. Bibcode:1999Sci...286.2134H. doi:10.1126/science.286.5447.2134. PMID 10591640. S2CID 35233339.
+ Kaufman, Marc (5 March 2015). "Mars Had an Ocean, Scientists Say, Pointing to New Data". The New York Times. Retrieved 5 March 2015.
+ "A winter wonderland in red and white – Korolev Crater on Mars". German Aerospace Center (DLR). Retrieved 20 December 2018.
+ Editor, Ian Sample Science (21 December 2018). "Mars Express beams back images of ice-filled Korolev crater". The Guardian. Retrieved 21 December 2018.
+ "Salty water may be running on the surface of Mars". The Week. Retrieved 13 February 2020.
+ "Salt Water May Periodically Form on the Surface of Mars - Astrobiology". astrobiology.com. Retrieved 13 February 2020.
+ Mars' Polar Regions. Phoenix Mars Mission. University of Arizona.
+ Mellon, J. T.; Feldman, W. C.; Prettyman, T. H. (2003). "The presence and stability of ground ice in the southern hemisphere of Mars". Icarus. 169 (2): 324–340. Bibcode:2004Icar..169..324M. doi:10.1016/j.icarus.2003.10.022.
+ "Mars Rovers Spot Water-Clue Mineral, Frost, Clouds". NASA. 13 December 2004. Retrieved 17 March 2006.  This article incorporates text from this source, which is in the public domain.
+ Malin, M.C.; Caplinger, M.A.; Davis, S.D. (2001). "Observational evidence for an active surface reservoir of solid carbon dioxide on Mars" (PDF). Science. 294 (5549): 2146–2148. Bibcode:2001Sci...294.2146M. doi:10.1126/science.1066416. PMID 11768358. S2CID 34596403.
+ "MIRA's Field Trips to the Stars Internet Education Program". Mira.org. Retrieved 26 February 2007.
+ Carr, Michael H. (2003). "Oceans on Mars: An assessment of the observational evidence and possible fate". Journal of Geophysical Research. 108 (5042): 24. Bibcode:2003JGRE..108.5042C. doi:10.1029/2002JE001963. S2CID 16367611.
+ Phillips, Tony. "Mars is Melting, Science at NASA". Archived from the original on 24 February 2007. Retrieved 26 February 2007.  This article incorporates text from this source, which is in the public domain.
+ Plaut, J. J; et al. (2007). "Subsurface Radar Sounding of the South Polar Layered Deposits of Mars". Science. 316 (5821): 92–95. Bibcode:2007Sci...316...92P. doi:10.1126/science.1139672. PMID 17363628. S2CID 23336149.
+ Smith, Isaac B.; Holt, J. W. (2010). "Onset and migration of spiral troughs on Mars revealed by orbital radar". Nature. 465 (4): 450–453. Bibcode:2010Natur.465..450S. doi:10.1038/nature09049. PMID 20505722. S2CID 4416144.
+ "Mystery Spirals on Mars Finally Explained". Space.com. 26 May 2010. Retrieved 26 May 2010.
+ "NASA Findings Suggest Jets Bursting From Martian Ice Cap". Jet Propulsion Laboratory. NASA. 16 August 2006. Retrieved 11 August 2009.  This article incorporates text from this source, which is in the public domain.
+ Kieffer, H. H. (2000). "Mars Polar Science 2000" (PDF). Retrieved 6 September 2009.
+ Portyankina, G., ed. (2006). "Fourth Mars Polar Science Conference" (PDF). Retrieved 11 August 2009.
+ Kieffer, Hugh H.; Christensen, Philip R.; Titus, Timothy N. (30 May 2006). "CO2 jets formed by sublimation beneath translucent slab ice in Mars' seasonal south polar ice cap". Nature. 442 (7104): 793–796. Bibcode:2006Natur.442..793K. doi:10.1038/nature04945. PMID 16915284. S2CID 4418194.
+ Sheehan, William. "Areographers". The Planet Mars: A History of Observation and Discovery. Retrieved 13 June 2006.
+ Planetary Names: Categories for Naming Features on Planets and Satellites. Planetarynames.wr.usgs.gov. Retrieved 1 December 2011.
+ "Viking and the Resources of Mars" (PDF). Humans to Mars: Fifty Years of Mission Planning, 1950–2000. Retrieved 10 March 2007. This article incorporates text from this source, which is in the public domain.
+ Frommert, H.; Kronberg, C. "Christiaan Huygens". SEDS/Lunar and Planetary Lab. Retrieved 10 March 2007.
+ Davies, M. E., and R. A. Berg, "Preliminary Control Net of Mars,"Journal of Geophysical Research, Vol. 76, No. 2, pp. 373-393, 10 January 1971.
+ Archinal, B. A.; Caplinger, M. (Fall 2002). "Mars, the Meridian, and Mert: The Quest for Martian Longitude". Abstract #P22D-06. 22: P22D–06. Bibcode:2002AGUFM.P22D..06A.
+ NASA (19 April 2007). "Mars Global Surveyor: MOLA MEGDRs". geo.pds.nasa.gov. Archived from the original on 13 November 2011. Retrieved 24 June 2011.
+ Ardalan, A. A.; Karimi, R.; Grafarend, E. W. (2009). "A New Reference Equipotential Surface, and Reference Ellipsoid for the Planet Mars". Earth, Moon, and Planets. 106 (1): 1–13. doi:10.1007/s11038-009-9342-7. ISSN 0167-9295. S2CID 119952798.
+ Zeitler, W.; Ohlhof, T.; Ebner, H. (2000). "Recomputation of the global Mars control-point network" (PDF). Photogrammetric Engineering & Remote Sensing. 66 (2): 155–161. Archived from the original (PDF) on 13 November 2011. Retrieved 26 December 2009.
+ Lunine, Cynthia J. (1999). Earth: evolution of a habitable world. Cambridge University Press. p. 183. ISBN 978-0-521-64423-5.
+ Morton, Oliver (2002). Mapping Mars: Science, Imagination, and the Birth of a World. New York: Picador USA. p. 98. ISBN 0-312-24551-3.
+ "Online Atlas of Mars". Ralphaeschliman.com. Retrieved 16 December 2012.
+ "PIA03467: The MGS MOC Wide Angle Map of Mars". Photojournal. NASA / Jet Propulsion Laboratory. 16 February 2002. Retrieved 16 December 2012.
+ Webster, Guy; Brown, Dwayne (22 May 2014). "NASA Mars Weathercam Helps Find Big New Crater". NASA. Retrieved 22 May 2014.  This article incorporates text from this source, which is in the public domain.
+ Wright, Shawn (4 April 2003). "Infrared Analyses of Small Impact Craters on Earth and Mars". University of Pittsburgh. Archived from the original on 12 June 2007. Retrieved 26 February 2007.
+ "Mars Global Geography". Windows to the Universe. University Corporation for Atmospheric Research. 27 April 2001. Archived from the original on 15 June 2006. Retrieved 13 June 2006.
+ Wetherill, G. W. (1999). "Problems Associated with Estimating the Relative Impact Rates on Mars and the Moon". Earth, Moon, and Planets. 9 (1–2): 227–231. Bibcode:1974Moon....9..227W. doi:10.1007/BF00565406. S2CID 120233258.
+ Costard, Francois M. (1989). "The spatial distribution of volatiles in the Martian hydrolithosphere". Earth, Moon, and Planets. 45 (3): 265–290. Bibcode:1989EM&P...45..265C. doi:10.1007/BF00057747. S2CID 120662027.
+ Chen, Junyong; et al. (2006). "Progress in technology for the 2005 height determination of Qomolangma Feng (Mt. Everest)". Science in China Series D: Earth Sciences. 49 (5): 531–538. Bibcode:2006ScChD..49..531C. doi:10.1007/s11430-006-0531-1.
+ "Olympus Mons". mountainprofessor.com.
+ Glenday, Craig (2009). Guinness World Records. Random House, Inc. p. 12. ISBN 978-0-553-59256-6.
+ Wolpert, Stuart (9 August 2012). "UCLA scientist discovers plate tectonics on Mars". UCLA. Archived from the original on 12 August 2012. Retrieved 13 August 2012.
+ Lin, An (4 June 2012). "Structural analysis of the Valles Marineris fault zone: Possible evidence for large-scale strike-slip faulting on Mars". Lithosphere. 4 (4): 286–330. Bibcode:2012Lsphe...4..286Y. doi:10.1130/L192.1.
+ Cushing, G. E.; Titus, T. N.; Wynne, J. J.; Christensen, P. R. (2007). "Themis Observes Possible Cave Skylights on Mars" (PDF). Lunar and Planetary Science XXXVIII. Retrieved 2 August 2007.
+ "NAU researchers find possible caves on Mars". Inside NAU. 4 (12). Northern Arizona University. 28 March 2007. Retrieved 28 May 2007.
+ "Researchers find possible caves on Mars". Paul Rincon of BBC News. 17 March 2007. Retrieved 28 May 2007.
+ Philips, Tony (2001). "The Solar Wind at Mars". Science@NASA. Archived from the original on 10 October 2006. Retrieved 8 October 2006.  This article incorporates text from this source, which is in the public domain.
+ Grossman, Lisa (20 January 2011). "Multiple Asteroid Strikes May Have Killed Mars's Magnetic Field". Wired.
+ Lundin, R; et al. (2004). "Solar Wind-Induced Atmospheric Erosion at Mars: First Results from ASPERA-3 on Mars Express". Science. 305 (5692): 1933–1936. Bibcode:2004Sci...305.1933L. doi:10.1126/science.1101860. PMID 15448263. S2CID 28142296.
+ Bolonkin, Alexander A. (2009). Artificial Environments on Mars. Berlin Heidelberg: Springer. pp. 599–625. ISBN 978-3-642-03629-3.
+ Atkinson, Nancy (17 July 2007). "The Mars Landing Approach: Getting Large Payloads to the Surface of the Red Planet". Retrieved 18 September 2007.
+ Carr, Michael H. (2006). The surface of Mars. Cambridge planetary science series. 6. Cambridge University Press. p. 16. ISBN 978-0-521-87201-0.
+ Mahaffy, P. R.; Webster, C. R.; Atreya, S. K.; Franz, H.; Wong, M.; Conrad, P. G.; Harpold, D.; Jones, J. J.; Leshin, L. A.; Manning, H.; Owen, T.; Pepin, R. O.; Squyres, S.; Trainer, M.; Kemppinen, O.; Bridges, N.; Johnson, J. R.; Minitti, M.; Cremers, D.; Bell, J. F.; Edgar, L.; Farmer, J.; Godber, A.; Wadhwa, M.; Wellington, D.; McEwan, I.; Newman, C.; Richardson, M.; Charpentier, A.; et al. (19 July 2013). "Abundance and Isotopic Composition of Gases in the Martian Atmosphere from the Curiosity Rover". Science. 341 (6143): 263–266. Bibcode:2013Sci...341..263M. doi:10.1126/science.1237966. PMID 23869014. S2CID 206548973.
+ Lemmon, M. T.; et al. (2004). "Atmospheric Imaging Results from Mars Rovers". Science. 306 (5702): 1753–1756. Bibcode:2004Sci...306.1753L. doi:10.1126/science.1104474. PMID 15576613. S2CID 5645412.
+ Formisano, V.; Atreya, S.; Encrenaz, T.; Ignatiev, N.; Giuranna, M. (2004). "Detection of Methane in the Atmosphere of Mars". Science. 306 (5702): 1758–1761. Bibcode:2004Sci...306.1758F. doi:10.1126/science.1101732. PMID 15514118. S2CID 13533388.
+ "Mars Express confirms methane in the Martian atmosphere". ESA. 30 March 2004. Retrieved 17 March 2006.
+ Sample, Ian (7 June 2018). "Nasa Mars rover finds organic matter in ancient lake bed". The Guardian. Retrieved 12 June 2018.
+ Mumma, Michael J.; et al. (20 February 2009). "Strong Release of Methane on Mars in Northern Summer 2003" (PDF). Science. 323 (5917): 1041–1045. Bibcode:2009Sci...323.1041M. doi:10.1126/science.1165243. PMID 19150811. S2CID 25083438.
+ Franck, Lefèvre; Forget, François (6 August 2009). "Observed variations of methane on Mars unexplained by known atmospheric chemistry and physics". Nature. 460 (7256): 720–723. Bibcode:2009Natur.460..720L. doi:10.1038/nature08228. PMID 19661912. S2CID 4355576.
+ Oze, C.; Sharma, M. (2005). "Have olivine, will gas: Serpentinization and the abiogenic production of methane on Mars". Geophysical Research Letters. 32 (10): L10203. Bibcode:2005GeoRL..3210203O. doi:10.1029/2005GL022691. S2CID 28981740.
+ Steigerwald, Bill (15 January 2009). "Martian Methane Reveals the Red Planet is not a Dead Planet". NASA/Goddard Space Flight Center. Archived from the original on 17 January 2009. Retrieved 24 January 2009.  This article incorporates text from this source, which is in the public domain.
+ Jones, Nancy; Steigerwald, Bill; Brown, Dwayne; Webster, Guy (14 October 2014). "NASA Mission Provides Its First Look at Martian Upper Atmosphere". NASA. Retrieved 15 October 2014.  This article incorporates text from this source, which is in the public domain.
+ "Auroras on Mars – NASA Science". science.nasa.gov. Retrieved 12 May 2015.  This article incorporates text from this source, which is in the public domain.
+ Brown, Dwayne; Neal-Jones, Nancy; Steigerwald, Bill; Scott, Jim (18 March 2015). "NASA Spacecraft Detects Aurora and Mysterious Dust Cloud around Mars". NASA. Release 15-045. Retrieved 18 March 2015.  This article incorporates text from this source, which is in the public domain.
+ Webster, Guy; Neal-Jones, Nancy; Scott, Jim; Schmid, Deb; Cantillo, Laurie; Brown, Dwayne (29 September 2017). "Large Solar Storm Sparks Global Aurora and Doubles Radiation Levels on the Martian Surface". NASA.  This article incorporates text from this source, which is in the public domain.
+ "Mars' desert surface..." MGCM Press release. NASA. Archived from the original on 7 July 2007. Retrieved 25 February 2007.  This article incorporates text from this source, which is in the public domain.
+ Kluger, Jeffrey (1 September 1992). "Mars, in Earth's Image". Discover Magazine. 13 (9): 70. Bibcode:1992Disc...13...70K. Retrieved 3 November 2009.
+ Goodman, Jason C. (22 September 1997). "The Past, Present, and Possible Future of Martian Climate". MIT. Archived from the original on 10 November 2010. Retrieved 26 February 2007.
+ Philips, Tony (16 July 2001). "Planet Gobbling Dust Storms". Science @ NASA. Archived from the original on 13 June 2006. Retrieved 7 June 2006.  This article incorporates text from this source, which is in the public domain.
+ Wall, Mike (12 June 2018). "NASA's Curiosity Rover Is Tracking a Huge Dust Storm on Mars (Photo)". Space.com. Retrieved 13 June 2018.
+ Badescu, Viorel (2009). Mars: Prospective Energy and Material Resources (illustrated ed.). Springer Science & Business Media. p. 600. ISBN 978-3-642-03629-3.
+ Vitagliano, Aldo (2003). "Mars' Orbital eccentricity over time". Solex. Universita' degli Studi di Napoli Federico II. Archived from the original on 7 September 2007. Retrieved 20 July 2007.
+ Meeus, Jean (March 2003). "When Was Mars Last This Close?". International Planetarium Society. Archived from the original on 16 May 2011. Retrieved 18 January 2008.
+ Baalke, Ron (22 August 2003). "Mars Makes Closest Approach in Nearly 60,000 Years". meteorite-list. Retrieved 18 January 2008.
+ Nowack, Robert L. "Estimated Habitable Zone for the Solar System". Department of Earth and Atmospheric Sciences at Purdue University. Retrieved 10 April 2009.
+ Briggs, Helen (15 February 2008). "Early Mars 'too salty' for life". BBC News. Retrieved 16 February 2008.
+ "PIA19673: Spectral Signals Indicating Impact Glass on Mars". NASA. 8 June 2015. Retrieved 8 June 2015.  This article incorporates text from this source, which is in the public domain.
+ Hannsson, Anders (1997). Mars and the Development of Life. Wiley. ISBN 978-0-471-96606-7.
+ "Press release: New Analysis of Viking Mission Results Indicates Presence of Life on Mars". Washington State University. 5 January 2006.
+ "Phoenix Returns Treasure Trove for Science". NASA/JPL. 6 June 2008. Retrieved 27 June 2008.  This article incorporates text from this source, which is in the public domain.
+ Bluck, John (5 July 2005). "NASA Field-Tests the First System Designed to Drill for Subsurface Martian Life". NASA. Retrieved 2 January 2010.  This article incorporates text from this source, which is in the public domain.
+ Kounaves, S. P.; et al. (2014). "Evidence of martian perchlorate, chlorate, and nitrate in Mars meteorite EETA79001: implications for oxidants and organics". Icarus. 229: 206–213. Bibcode:2014Icar..229..206K. doi:10.1016/j.icarus.2013.11.012.
+ "Tiny Crystal Shapes Get Close Look From Mars Rover". NASA/JPL. 8 February 2018.  This article incorporates text from this source, which is in the public domain.
+ Kounaves, S. P.; et al. (2014). "Identification of the perchlorate parent salts at the Phoenix Mars landing site and implications". Icarus. 232: 226–231. Bibcode:2014Icar..232..226K. doi:10.1016/j.icarus.2014.01.016.
+ Golden, D. C.; et al. (2004). "Evidence for exclusively inorganic formation of magnetite in Martian meteorite ALH84001" (PDF). American Mineralogist. 89 (5–6): 681–695. Bibcode:2004AmMin..89..681G. doi:10.2138/am-2004-5-602. S2CID 53315162. Archived from the original (PDF) on 12 May 2011. Retrieved 25 December 2010.
+ Krasnopolsky, Vladimir A.; Maillard, Jean-Pierre; Owen, Tobias C. (2004). "Detection of methane in the Martian atmosphere: evidence for life?". Icarus. 172 (2): 537–547. Bibcode:2004Icar..172..537K. doi:10.1016/j.icarus.2004.07.004.
+ Peplow, Mark (25 February 2005). "Formaldehyde claim inflames Martian debate". Nature. doi:10.1038/news050221-15. S2CID 128986558.
+ Nickel, Mark (18 April 2014). "Impact glass stores biodata for millions of years". Brown University. Retrieved 9 June 2015.
+ Schultz, P. H.; Harris, R. Scott; Clemett, S. J.; Thomas-Keprta, K. L.; Zárate, M. (June 2014). "Preserved flora and organics in impact melt breccias". Geology. 42 (6): 515–518. Bibcode:2014Geo....42..515S. doi:10.1130/G35343.1. hdl:2060/20140013110. S2CID 39019154.
+ Brown, Dwayne; Webster, Guy; Stacey, Kevin (8 June 2015). "NASA Spacecraft Detects Impact Glass on Surface of Mars" (Press release). NASA. Retrieved 9 June 2015.  This article incorporates text from this source, which is in the public domain.
+ Stacey, Kevin (8 June 2015). "Martian glass: Window into possible past life?". Brown University. Retrieved 9 June 2015.
+ Temming, Maria (12 June 2015). "Exotic Glass Could Help Unravel Mysteries of Mars". Scientific American. Retrieved 15 June 2015.
+ Smith, Deborah (10 May 2017). "Press release: Oldest evidence of life on land found in 3.48 billion-year-old Australian rocks". University of New South Wales Sydney.
+ Djokic, Tara; Van Kranendonk, Martin J.; Campbell, Kathleen A.; Walter, Malcolm R.; Ward, Colin R. (9 May 2017). "Earliest signs of life on land preserved in ca. 3.5 Ga hot spring deposits". Nature Communications. 8: 15263. Bibcode:2017NatCo...815263D. doi:10.1038/ncomms15263. PMC 5436104. PMID 28486437.
+ Brown, Dwayne; et al. (7 June 2018). "NASA Finds Ancient Organic Material, Mysterious Methane on Mars". NASA. Retrieved 12 June 2018.
+ Wall, Mike (7 June 2018). "Curiosity Rover Finds Ancient 'Building Blocks for Life' on Mars". Space.com. Retrieved 7 June 2018.
+ Chang, Kenneth (7 June 2018). "Life on Mars? Rover's Latest Discovery Puts It 'On the Table'". The New York Times. Retrieved 8 June 2018. The identification of organic molecules in rocks on the red planet does not necessarily point to life there, past or present, but does indicate that some of the building blocks were present.
+ Orosei, R.; et al. (25 July 2018). "Radar evidence of subglacial liquid water on Mars" (PDF). Science. 361 (6401): 490–493. arXiv:2004.04587. Bibcode:2018Sci...361..490O. doi:10.1126/science.aar7268. hdl:11573/1148029. PMID 30045881. S2CID 206666385.
+ Chang, Kenneth; Overbye, Dennis (25 July 2018). "A Watery Lake Is Detected on Mars, Raising the Potential for Alien Life". The New York Times. Retrieved 25 July 2018.
+ Orosei, R.; et al. (25 July 2018). "Supplementary Materials for: Radar evidence of subglacial liquid water on Mars" (PDF). Science. 361 (6401): 490–493. Bibcode:2018Sci...361..490O. doi:10.1126/science.aar7268. hdl:11573/1148029. PMID 30045881. S2CID 206666385.
+ "Close Inspection for Phobos". ESA website. Retrieved 13 June 2006.
+ "Ares Attendants: Deimos & Phobos". Greek Mythology. Retrieved 13 June 2006.
+ Hunt, G. E.; Michael, W. H.; Pascu, D.; Veverka, J.; Wilkins, G. A.; Woolfson, M. (1978). "The Martian satellites—100 years on". Quarterly Journal of the Royal Astronomical Society. 19: 90–109. Bibcode:1978QJRAS..19...90H.
+ "Greek Names of the Planets". 25 April 2010. Archived from the original on 9 May 2010. Retrieved 14 July 2012. Aris is the Greek name of the planet Mars, the fourth planet from the sun, also known as the Red planet. Aris or Ares was the Greek god of War. See also the Greek article about the planet.
+ Arnett, Bill (20 November 2004). "Phobos". nineplanets. Retrieved 13 June 2006.
+ Ellis, Scott. "Geological History: Moons of Mars". CalSpace. Archived from the original on 17 May 2007. Retrieved 2 August 2007.
+ Andert, T. P.; Rosenblatt, P.; Pätzold, M.; Häusler, B.; Dehant, V.; Tyler, G. L.; Marty, J. C. (7 May 2010). "Precise mass determination and the nature of Phobos". Geophysical Research Letters. 37 (L09202): L09202. Bibcode:2010GeoRL..37.9202A. doi:10.1029/2009GL041829.
+ Giuranna, M.; Roush, T. L.; Duxbury, T.; Hogan, R. C.; Geminale, A.; Formisano, V. (2010). Compositional Interpretation of PFS/MEx and TES/MGS Thermal Infrared Spectra of Phobos (PDF). European Planetary Science Congress Abstracts, Vol. 5. Retrieved 1 October 2010.
+ "Mars Moon Phobos Likely Forged by Catastrophic Blast". Space.com. 27 September 2010. Retrieved 1 October 2010.
+ "Mars Science Laboratory – Homepage". NASA. Archived from the original on 30 July 2009.  This article incorporates text from this source, which is in the public domain.
+ "Chemistry and Cam (ChemCam)". NASA.  This article incorporates text from this source, which is in the public domain.
+ "Curiosity Mars rover takes historic drill sample". BBC News. BBC. 10 February 2013. Retrieved 10 February 2013.
+ Jha, Alok (26 September 2013). "Nasa's Curiosity rover finds water in Martian soil". The Guardian. Retrieved 6 November 2013.
+ Webster, Guy; Cole, Steve; Stolte, Daniel (4 August 2011). "NASA Spacecraft Data Suggest Water Flowing on Mars". NASA. Retrieved 19 September 2011.  This article incorporates text from this source, which is in the public domain.
+ "ISRO: Mars Orbiter Mission". isro.gov.in. Archived from the original on 9 November 2013.
+ Amos, Jonathan (14 March 2016). "Mars TGO probe despatched on methane investigation". BBC News. Retrieved 11 October 2016.
+ Clery, Daniel (21 October 2016). "Update: R.I.P. Schiaparelli: Crash site spotted for European Mars lander". Science.
+ Brown, Dwayne; Wendel, JoAnna; Agle, D. C. (26 November 2018). "NASA InSight Lander Arrives on Martian Surface". Mars Exploration Program. NASA. Retrieved 27 November 2018.  This article incorporates text from this source, which is in the public domain.
+ Clark, Stephen (9 March 2016). "InSight Mars lander escapes cancellation, aims for 2018 launch". Spaceflight Now. Retrieved 9 March 2016.
+ Brown, Dwayne; Johnson, Alana; Good, Andrew (23 April 2019). "NASA's InSight Detects First Likely 'Quake' on Mars". NASA. Retrieved 23 April 2019.  This article incorporates text from this source, which is in the public domain.
+ Bartels, Meghan (23 April 2019). "Marsquake! NASA's InSight Lander Feels Its 1st Red Planet Tremor". Space.com. Retrieved 23 April 2019.
+ "NASA news: 'Unexpected and surprising' Mars mission discovery shocks scientists | Science | News | Express.co.uk". express.co.uk. Retrieved 21 December 2019.
+ "NASA's MAVEN probe shows how wind circulates in Mars' upper atmosphere". Science News. 12 December 2019. Retrieved 21 December 2019.
+ mars.nasa.gov. "Mars 2020 Rover". mars.nasa.gov. Retrieved 23 March 2019.  This article incorporates text from this source, which is in the public domain.
+ "NASA, ESA Officials Outline Latest Mars Sample Return Plans". planetary.org. Retrieved 9 September 2019.
+ "Second ExoMars mission moves to next launch opportunity in 2020" (Press release). European Space Agency. 2 May 2016. Retrieved 2 May 2016.
+ Schreck, Adam (6 May 2015). "UAE to explore Mars' atmosphere with probe named 'Hope'". Excite News. Associated Press. Archived from the original on 9 May 2015. Retrieved 31 May 2015.
+ Chang, Kenneth (27 September 2016). "Elon Musk's Plan: Get Humans to Mars, and Beyond". The New York Times. Retrieved 11 October 2016.
+ Obama, Barack (11 October 2016). "Barack Obama: America will take the giant leap to Mars". CNN. Retrieved 11 October 2016.
+ Victor, Daniel (11 October 2016). "Obama Gives New Details About Sending People to Mars". The New York Times. Retrieved 11 October 2016.
+ Galeon, Dom; Creighton, Jolene (9 March 2017). "US Government Issues NASA Demand, 'Get Humans to Mars By 2033'". Futurism. Retrieved 16 February 2018.
+ "Deimos". Planetary Societies's Explore the Cosmos. Archived from the original on 5 June 2011. Retrieved 13 June 2006.
+ Bertaux, Jean-Loup; et al. (2005). "Discovery of an aurora on Mars". Nature. 435 (7043): 790–794. Bibcode:2005Natur.435..790B. doi:10.1038/nature03603. PMID 15944698. S2CID 4430534.
+ Bell, J. F., III; et al. (7 July 2005). "Solar eclipses of Phobos and Deimos observed from the surface of Mars". Nature. 436 (7047): 55–57. Bibcode:2005Natur.436...55B. doi:10.1038/nature03437. PMID 16001060. S2CID 4424182.
+ Staff (17 March 2004). "Martian Moons Block Sun in Unique Eclipse Images From Another Planet". SpaceDaily. Retrieved 13 February 2010.
+ Meeus, J.; Goffin, E. (1983). "Transits of Earth as seen from Mars". Journal of the British Astronomical Association. 93 (3): 120–123. Bibcode:1983JBAA...93..120M.
+ Webster, Guy; Brown, Dwayne; Jones, Nancy; Steigerwald, Bill (19 October 2014). "All Three NASA Mars Orbiters Healthy After Comet Flyby". NASA. Retrieved 20 October 2014.  This article incorporates text from this source, which is in the public domain.
+ "A Comet's Brush With Mars". The New York Times. Agence France-Presse. 19 October 2014. Retrieved 20 October 2014.
+ Denis, Michel (20 October 2014). "Spacecraft in great shape – our mission continues". European Space Agency. Retrieved 21 October 2014.
+ Staff (21 October 2014). "I'm safe and sound, tweets MOM after comet sighting". The Hindu. Retrieved 21 October 2014.
+ Moorhead, Althea; Wiegert, Paul A.; Cooke, William J. (1 December 2013). "The meteoroid fluence at Mars due to comet C/2013 A1 (Siding Spring)". Icarus. 231: 13–21. Bibcode:2014Icar..231...13M. doi:10.1016/j.icarus.2013.11.028. hdl:2060/20140010989.
+ Grossman, Lisa (6 December 2013). "Fiercest meteor shower on record to hit Mars via comet". New Scientist. Retrieved 7 December 2013.
+ St. Fleur, Nicholas (9 January 2017). "Looking at Your Home Planet from Mars". The New York Times. Retrieved 9 January 2017.
+ Mallama, A. (2011). "Planetary magnitudes". Sky and Telescope. 121 (1): 51–56.
+ Lloyd, John; John Mitchinson (2006). The QI Book of General Ignorance. Britain: Faber and Faber Limited. pp. 102, 299. ISBN 978-0-571-24139-2.
+ Peck, Akkana. "Mars Observing FAQ". Shallow Sky. Retrieved 15 June 2006.
+ Zeilik, Michael (2002). Astronomy: the Evolving Universe (9th ed.). Cambridge University Press. p. 14. ISBN 978-0-521-80090-7.
+ Jacques Laskar (14 August 2003). "Primer on Mars oppositions". IMCCE, Paris Observatory. Retrieved 1 October 2010. (Solex results) Archived 9 August 2012 at the Wayback Machine
+ "Close Encounter: Mars at Opposition". NASA. 3 November 2005. Retrieved 19 March 2010.
+ "Mars Close Up". The New York Times. 1 August 2018. Retrieved 1 August 2018.
+ Sheehan, William (2 February 1997). "Appendix 1: Oppositions of Mars, 1901–2035". The Planet Mars: A History of Observation and Discovery. University of Arizona Press. Archived from the original on 25 June 2010. Retrieved 30 January 2010.
+ The opposition of 12 February 1995 was followed by one on 17 March 1997. The opposition of 13 July 2065 will be followed by one on 2 October 2067. Astropro 3000-year Sun-Mars Opposition Tables
+ Rao, Joe (22 August 2003). "NightSky Friday—Mars and Earth: The Top 10 Close Passes Since 3000 B.C." Space.com. Archived from the original on 20 May 2009. Retrieved 13 June 2006.
+ Peters, W. T. (1984). "The Appearance of Venus and Mars in 1610". Journal for the History of Astronomy. 15 (3): 211–214. Bibcode:1984JHA....15..211P. doi:10.1177/002182868401500306. S2CID 118187803.
+ Rabkin, Eric S. (2005). Mars: A Tour of the Human Imagination. Westport, Connecticut: Praeger. pp. 9–11. ISBN 978-0-275-98719-0.
+ Thompson, Henry O. (1970). Mekal: The God of Beth-Shan. Leiden, Germany: E. J. Brill. p. 125.
+ Novakovic, B. (2008). "Senenmut: An Ancient Egyptian Astronomer". Publications of the Astronomical Observatory of Belgrade. 85: 19–23. arXiv:0801.1331. Bibcode:2008POBeo..85...19N.
+ North, John David (2008). Cosmos: an illustrated history of astronomy and cosmology. University of Chicago Press. pp. 48–52. ISBN 978-0-226-59441-5.
+ Swerdlow, Noel M. (1998). "Periodicity and Variability of Synodic Phenomenon". The Babylonian theory of the planets. Princeton University Press. pp. 34–72. ISBN 978-0-691-01196-7.
+ Cicero, Marcus Tullius (1896). De Natura Deorum [On the Nature of the Gods]. Translated by Francis Brooks. London: Methuen.
+ Poor, Charles Lane (1908). The solar system: a study of recent observations. Science series. 17. G. P. Putnam's sons. p. 193.
+ Harland, David Michael (2007). "Cassini at Saturn: Huygens results". p. 1. ISBN 0-387-26129-X
+ Hummel, Charles E. (1986). The Galileo connection: resolving conflicts between science & the Bible. InterVarsity Press. pp. 35–38. ISBN 0-87784-500-X.
+ Needham, Joseph; Ronan, Colin A. (1985). The Shorter Science and Civilisation in China: An Abridgement of Joseph Needham's Original Text. The shorter science and civilisation in China. 2 (3rd ed.). Cambridge University Press. p. 187. ISBN 978-0-521-31536-4.
+ de Groot, Jan Jakob Maria (1912). "Fung Shui". Religion in China – Universism: A Key to the Study of Taoism and Confucianism. American Lectures on the History of Religions, volume 10. G. P. Putnam's Sons. p. 300. OCLC 491180.
+ Crump, Thomas (1992). The Japanese Numbers Game: The Use and Understanding of Numbers in Modern Japan. Nissan Institute/Routledge Japanese Studies Series. Routledge. pp. 39–40. ISBN 978-0-415-05609-0.
+ Hulbert, Homer Bezaleel (1909) [1906]. The Passing of Korea. Doubleday, Page & Company. p. 426. OCLC 26986808.
+ Taton, Reni (2003). Reni Taton; Curtis Wilson; Michael Hoskin (eds.). Planetary Astronomy from the Renaissance to the Rise of Astrophysics, Part A, Tycho Brahe to Newton. Cambridge University Press. p. 109. ISBN 978-0-521-54205-0.
+ Hirshfeld, Alan (2001). Parallax: the race to measure the cosmos. Macmillan. pp. 60–61. ISBN 978-0-7167-3711-7.
+ Breyer, Stephen (1979). "Mutual Occultation of Planets". Sky and Telescope. 57 (3): 220. Bibcode:1979S&T....57..220A.
+ Sheehan, William (1996). "2: Pioneers". The Planet Mars: A History of Observation and Discovery. uapress.arizona.edu. Tucson: University of Arizona. Retrieved 16 January 2010.
+ Snyder, Dave (May 2001). "An Observational History of Mars". Retrieved 26 February 2007.
+ Sagan, Carl (1980). Cosmos. New York City: Random House. p. 107. ISBN 978-0-394-50294-6.
+ Basalla, George (2006). "Percival Lowell: Champion of Canals". Civilized Life in the Universe: Scientists on Intelligent Extraterrestrials. Oxford University Press US. pp. 67–88. ISBN 978-0-19-517181-5.
+ Dunlap, David W. (1 October 2015). "Life on Mars? You Read It Here First". The New York Times. Retrieved 1 October 2015.
+ Maria, K.; Lane, D. (2005). "Geographers of Mars". Isis. 96 (4): 477–506. doi:10.1086/498590. PMID 16536152. S2CID 33079760.
+ Perrotin, M. (1886). "Observations des canaux de Mars". Bulletin Astronomique. Série I (in French). 3: 324–329. Bibcode:1886BuAsI...3..324P.
+ Zahnle, K. (2001). "Decline and fall of the Martian empire". Nature. 412 (6843): 209–213. doi:10.1038/35084148. PMID 11449281. S2CID 22725986.
+ Salisbury, F. B. (1962). "Martian Biology". Science. 136 (3510): 17–26. Bibcode:1962Sci...136...17S. doi:10.1126/science.136.3510.17. JSTOR 1708777. PMID 17779780. S2CID 39512870.
+ Ward, Peter Douglas; Brownlee, Donald (2000). Rare earth: why complex life is uncommon in the universe. Copernicus Series (2nd ed.). Springer. p. 253. ISBN 978-0-387-95289-5.
+ Bond, Peter (2007). Distant worlds: milestones in planetary exploration. Copernicus Series. Springer. p. 119. ISBN 978-0-387-40212-3.
+ "New Online Tools Bring NASA's Journey to Mars to a New Generation". 5 August 2015. Retrieved 5 August 2015.
+ Dinerman, Taylor (27 September 2004). "Is the Great Galactic Ghoul losing his appetite?". The space review. Retrieved 27 March 2007.
+ "Percivel Lowell's Canals". Archived from the original on 19 February 2007. Retrieved 1 March 2007.
+ Fergus, Charles (2004). "Mars Fever". Research/Penn State. 24 (2). Archived from the original on 31 August 2003. Retrieved 2 August 2007.
+ Tesla, Nikola (9 February 1901). "Talking with the Planets". Collier's. Vol. 26 no. 19. pp. 4–5.
+ Cheney, Margaret (1981). Tesla: Man Out of Time. Englewood Cliffs, New Jersey: Prentice-Hall. p. 162. ISBN 978-0-13-906859-1. OCLC 7672251.
+ "Departure of Lord Kelvin". The New York Times. 11 May 1902. p. 29.
+ Pickering, Edward Charles (16 January 1901). "The Light Flash From Mars" (PDF). The New York Times. Archived from the original (PDF) on 5 June 2007. Retrieved 20 May 2007.
+ Fradin, Dennis Brindell (1999). Is There Life on Mars?. McElderry Books. p. 62. ISBN 978-0-689-82048-9.
+ Lightman, Bernard V. (1997). Victorian Science in Context. University of Chicago Press. pp. 268–273. ISBN 978-0-226-48111-1.
+ Schwartz, Sanford (2009). C. S. Lewis on the Final Frontier: Science and the Supernatural in the Space Trilogy. Oxford University Press US. pp. 19–20. ISBN 978-0-19-537472-8.
+ Buker, Derek M. (2002). The science fiction and fantasy readers' advisory: the librarian's guide to cyborgs, aliens, and sorcerers. ALA readers' advisory series. ALA Editions. p. 26. ISBN 978-0-8389-0831-0.
+ Darling, David. "Swift, Jonathan and the moons of Mars". Retrieved 1 March 2007.
+ Rabkin, Eric S. (2005). Mars: a tour of the human imagination. Greenwood Publishing Group. pp. 141–142. ISBN 978-0-275-98719-0.
+ Miles, Kathy; Peters II, Charles F. "Unmasking the Face". StarrySkies.com. Archived from the original on 26 September 2007. Retrieved 1 March 2007.
+External links
+	Look up Mars in Wiktionary, the free dictionary.
+Mars
+at Wikipedia's sister projects
+Definitions from Wiktionary
+Media from Wikimedia Commons
+News from Wikinews
+Quotations from Wikiquote
+Texts from Wikisource
+Textbooks from Wikibooks
+Resources from Wikiversity
+Mars at Curlie
+Mars Exploration Program at NASA.gov
+Mars Trek – An integrated map browser of maps and datasets for Mars
+Google Mars and Google Mars 3D, interactive maps of the planet
+Geody Mars, mapping site that supports NASA World Wind, Celestia, and other applications
+Interactive 3D Gravity simulation of the Martian system and all the operational spacecraft in orbit around it as of the 12'th of June 2020
+Images
+Mars images by NASA's Planetary Photojournal
+Mars images by NASA's Mars Exploration Program
+Mars images by Malin Space Science Systems
+HiRISE image catalog by the University of Arizona
+Videos
+Rotating color globe of Mars by the National Oceanic and Atmospheric Administration
+Rotating geological globe of Mars by the United States Geological Survey
+NASA's Curiosity Finds Ancient Streambed – First Evidence of Water on Mars on YouTube by The Science Channel (2012, 4:31)
+Flight Into Mariner Valley by Arizona State University
+High resolution video simulation of rotating Mars by Seán Doran, showing Arabia Terra, Valles Marineris and Tharsis (see album for more)
+Mars rover captures high-resolution panorama of its home (NASA)
+Cartographic resources
+Mars nomenclature and quadrangle maps with feature names by the United States Geological Survey
+Geological map of Mars by the United States Geological Survey
+Viking orbiter photomap by Eötvös Loránd University
+Mars Global Surveyor topographical map by Eötvös Loránd University
+vte
+Mars
+vte
+Geography and geology of Mars
+vte
+Spacecraft missions to Mars
+vte
+Human mission to Mars
+vte
+Solar System
+Authority control Edit this at Wikidata
+BNF: cb120752119 (data)GND: 4037687-4LCCN: sh85081548NARA: 10046638NDL: 00565094NKC: ph117831NLI: 000711940SUDOC: 029043387VIAF: 316741886WorldCat Identities (via VIAF): 316741886
+Categories: Solar SystemMarsAstronomical objects known since antiquityPlanets of the Solar SystemTerrestrial planets
+Navigation menu
+Keithlard
+Alerts (3)
+Notice (1)
+Talk
+Sandbox
+Preferences
+Beta
+Watchlist
+Contributions
+Log out
+ArticleTalk
+ReadEditView historyWatchSearch
+Search Wikipedia
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Cite this page
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+Wikibooks
+Wikinews
+Wikiquote
+Wikivoyage
+
+Languages
+বাংলা
+Cymraeg
+Deutsch
+Ελληνικά
+Français
+Italiano
+ਪੰਜਾਬੀ
+Scots
+中文
+211 more
+Edit links
+This page was last edited on 2021-01-06, at 15:08:40.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWiki

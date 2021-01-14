@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"log"
+	"markov"
 	"math/rand"
 	"os"
 	"strconv"
@@ -53,7 +54,8 @@ func displayChain(chain map[string][]string, n int) {
 	}
 	fmt.Println(strings.Join(words, " "))
 }
-func main() {
+
+func main2() {
 	stdIn := os.Stdin
 	scanner := bufio.NewScanner(stdIn)
 	scanner.Split(bufio.ScanWords)
@@ -68,4 +70,11 @@ func main() {
 		prefix[len(prefix)-1] = input
 	}
 	displayChain(chain, 20)
+}
+
+func main() {
+	// TODO: actually randomise
+	c := markov.BuildChain(os.Stdin)
+	// fmt.Println(c)
+	fmt.Println(markov.Generate(c, 150))
 }
